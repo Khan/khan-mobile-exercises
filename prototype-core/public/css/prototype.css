@@ -1,0 +1,282 @@
+/* GENERAL */
+
+body {
+	background-color: #FAFAFA;
+	padding: 0;
+	margin: 0;
+	font-size: 12px;
+	font-family: "Helvetica", sans-serif;
+	color: #626569;
+
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
+	cursor: default;
+}
+
+button {
+	border: none;
+	background-color: #fff;
+}
+
+::-webkit-input-placeholder {
+  color: #BABEC2;
+}
+
+iframe {
+    border: none;
+}
+
+select:focus {
+	outline: none;
+}
+
+/* HEADER NAV */
+
+.header-nav {
+	background-color: #fff;
+	border-bottom: 1px solid #E3E5E6;
+	position: fixed;
+	top: 0;
+	height: 36px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	z-index: 100;
+}
+
+.toggle-button {
+	background-color: inherit;
+	font-size: 14px;
+	font-weight: 500;
+	color: #3C91E5;
+	border-right: 1px solid #D6D8DA;
+	border-left: 1px solid #D6D8DA;
+	text-align: center;
+	vertical-align: center;
+	padding: 0 12px 0 8px;
+	line-height: 36px;
+	margin: 0;
+	cursor: pointer;
+}
+
+.toggle-button:hover {
+	color: #2C6EC6;
+	background-color: #F2F2F2;
+}
+
+.toggle-button:focus {
+	outline: none;
+}
+
+.filter-toggle-arrow {
+	margin-right: 10px;
+	margin-left: 4px;
+	padding: 0;
+}
+
+.search-field {
+	background-color: inherit;
+	font-size: 1em;
+	font-variant: "Regular";
+	height: 34px;
+	text-align: left;
+	border: none;
+	margin: 0;
+	padding-left: 8px;
+	flex: 1;
+}
+
+.search-field:focus {
+	outline: none;
+	color: #626569;
+}
+
+#filter-description {
+	background-color: inherit;
+	height: 100%;
+	flex: 1;
+	padding-left: 8px;
+	line-height: 36px;
+	cursor: default;
+	white-space:nowrap;
+}
+
+.text-highlight {
+	color: #3C91E5;
+	font-weight: 600;
+}
+
+.option-dropdown-container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: auto;
+	align-items: center;
+	padding: 8px;
+}
+
+/* DEVICE FILTERS (top-right corner of nav) */
+
+#device-filters-container {
+	margin: 0px 0 0px 0;
+	background: #fff;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.device-filter {
+	height: 36px;
+	width: 36px;
+	margin: 0;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.device-filter:hover {
+	background-color: #F2F2F2;
+}
+
+.device-filter-image {
+	background-size: contain;
+}
+
+
+/* FILTER OVERLAY */
+
+.overlay {
+	position: absolute;
+	left: 0;
+	right: 0;
+	background-color: #FBFBFC;
+	border-bottom: 1px solid #D6D8DA;
+	opacity: 0.95;
+}
+
+.filter-overlay {
+	top: 37px;
+	height: 253px;
+	padding: 8px;
+	display: flex;
+}
+
+.filter-collection {
+	margin: 8px;
+	width: 200px;
+	height: 221px;
+}
+
+.filter-collection-title {
+	height: 25px;
+	top: 0;
+	left: 0;
+	right: 0;
+	border-bottom: 1px solid #D6D8DA;
+	color: #888D93;
+	font-weight: bold;
+}
+
+.filter-collection-list {
+	height: 196px;
+	padding: 4px 0 4px 0;
+	overflow-y: scroll;
+}
+
+.filter-collection-list-item {
+	display: flex;
+	flex-direction: row;
+	height: 28px;
+	line-height: 28px;
+	align-items: center;
+	cursor: pointer;
+}
+
+.filter-collection-list-item:hover {
+	background-color: #F2F2F2;
+	color: #424447;
+}
+
+.checkbox {
+	margin-right: 8px;
+}
+
+
+/* EXERCISE PREVIEWS */
+
+#preview-container {
+	background: #fafafa;
+	padding: 44px 8px 8px 8px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	flex-flow: row wrap;
+	align-content: flex-start;
+	overflow-y: auto;
+}
+
+.preview-container-title {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	color: #BABEC2;
+	text-align: center;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.exercise-preview {
+	margin: 8px;
+	background: inherit;
+}
+
+.device-preview-container {
+	background: #D6D8DA;
+	display: flex;
+	flex-direction: row;
+	padding: 4px;
+	-webkit-border-radius: 4px;
+}
+
+.device-preview {
+	background: white;
+	margin: 8px;
+	color: #ddd;
+	text-align: center;
+	box-shadow: 0 1px 2px #bbb;
+	flex-shrink: 0;
+}
+
+.device-preview-error {
+	text-align: center;
+	margin-top: 34px;
+	width: 280px;
+	color: #BABEC2;
+}
+
+.exercise-preview-description {
+	margin: 6px 0 0 0;
+	-webkit-touch-callout: text;
+	-webkit-user-select: text;
+	user-select: text;
+	cursor: text;
+}
+
+.exercise-preview-name {
+	font-weight: bold;
+	max-width: 280px;
+}
+
+.exercise-preview-id {
+	color: #BABEC2;
+	margin-top: 2px;
+	max-width: 280px;
+}

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <link rel="stylesheet" href="./index.css">
+    <body>
+        <div id="container"></div>
+        <script>
+            require("babel/register");
+            var main = require("../src/index.js");
+            main().catch(function(err) {
+                console.error(err);
+            });
+        </script>
+    </body>
+</html>

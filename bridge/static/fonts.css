@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("../../../Resources/fonts/FontAwesome.otf");
+}
+
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: url("../../../Resources/fonts/Proxima Nova Regular.otf");
+}
+
+@font-face {
+    font-family: 'Proxima Nova Semibold';
+    src: url("../../../Resources/fonts/Proxima Nova Semibold.otf");
+}
+
+@font-face {
+    font-family: 'sal';
+    src: url("../../../Resources/sal.otf");
+}
+

@@ -1,0 +1,261 @@
+/* THIRD ATTEMPT BY BRYAN
+ * NOW WITH MEDIA QUERIES! WEEEEEEEEE
+
+/*
+┌──────────────────────────────────────────────────┐
+│    BREAKPOINTS                                   │
+└──────────────────────────────────────────────────┘
+  * DEVICE SCALE
+  * 400pt     Phone-Phablet
+  * 600pt     Phablet-Tablet
+  * 1024pt    Tablet-Laptop
+  * 1440pt    Laptop-Desktop
+
+  * BIBLIOTRON SCALE
+  * 768pt     Small-Medium
+  * 1024pt    Medium-Large
+  * 1200pt    Large-Gigantic
+  */
+
+
+/*
+┌──────────────────────────────────────────────────┐
+│    LAYOUT                                        │
+└──────────────────────────────────────────────────┘
+  * Small:          Flexible Content Width
+  * Medium & Up:    Fixed Content Width
+
+  * Phones:         Small Margins and Spacing
+  * Phablets & Up:  Large Margins and Spacing (125%)
+
+  * < 1400pt:       No Gutters Visible
+  * 1400pt & Up:    Gutters Visible
+  */
+
+html {
+  background-color: #888D93!important; /* Gutter color */
+  height: 100%!important;
+}
+
+body {
+  padding: 0!important;
+  min-height: 100%!important;
+  background-color:  #FAFAFA!important;
+  max-width: 1400px!important; /* Gutter breakpoint */
+  box-sizing: border-box;
+  margin: 0 auto;
+
+  /* DIRTY HACK to fix margin collapsing */
+  padding-top: 0.1px!important;
+}
+
+#problem-and-answer {
+  background-color: #FAFAFA!important;
+  width: 100%!important;
+  height: 100%!important;
+  margin: 0!important;
+  box-sizing: border-box;
+  padding-left: 16px!important;
+  padding-right: 16px!important;
+  padding-top: 0px!important;
+}
+
+#problemarea {
+  max-width: 768px!important; /* Fixed Content Width */
+}
+
+/*
+┌──────────────────────────────────────────────────┐
+│    TYPOGRAPHY                                    │
+└──────────────────────────────────────────────────┘
+  * Phones:           Small Font Sizes
+  * Phablets & Up:    Large Font Sizes
+  */
+
+.paragraph {
+  font-family: ProximaNova-Light, AvenirNext-Light, "Helvetica Neue", Arial, sans-serif!important;
+  font-size: 16px!important;
+  line-height: 1.5em!important;
+  color: #626569!important;
+}
+
+.katex,
+.math {
+  color: #21242C!important;
+}
+
+@media (min-width: 600px) {
+  .paragraph {
+    font-size:20px!important;
+  }
+}
+
+
+
+/*
+┌──────────────────────────────────────────────────┐
+│    ANIMATION                                     │
+└──────────────────────────────────────────────────┘
+  * Let's drop animations for now;
+  * touch feels better with immediate response rather than lag.
+*/
+
+  body,
+  .perseus-radio-option,
+  .perseus-radio-selected,
+  .perseus-widget-radio {
+    transition-duration: 0!important;
+    transition-delay: 0!important;
+    transition-timing-function: none!important;
+  }
+
+
+
+/*
+┌──────────────────────────────────────────────────┐
+│    PRESS STATES                                  │
+└──────────────────────────────────────────────────┘
+*/
+.perseus-radio-option:active {
+  background-color: rgba(227, 229, 230, 0.50)!important; /* touch highlight a la iOS */
+}
+
+
+
+/*
+┌──────────────────────────────────────────────┐
+│         ___  _______  __________  ______     │
+│        / _ \/ __/ _ \/ __/ __/ / / / __/     │
+│       / ___/ _// , _/\ \/ _// /_/ /\ \       │
+│      /_/  /___/_/|_/___/___/\____/___/       │
+│                                              │
+└──────────────────────────────────────────────┘
+*/
+
+/* HIDING UNUSED ELEMENTS */
+#answerarea,
+#solutionarea {
+  display: none;
+}
+
+#problemarea {
+  padding-bottom: 0px!important;
+}
+
+/*
+┌──────────────────────────────────────────────────┐
+│    RADIO (MULTIPLE-CHOICE)                       │
+└──────────────────────────────────────────────────┘
+*/
+
+.perseus-widget-radio {
+  width: auto!important;
+  /* 16px matches the margin on #problem-and-answer */
+  margin-left: -16px!important;
+  margin-right: -16px!important;
+
+  border-top: 1px solid #D6D8DA!important;
+  border-bottom: 1px solid #D6D8DA!important;
+  border-right: none!important;
+  border-left: none!important;s
+}
+
+@media (min-width: 600px) {
+  .perseus-widget-radio {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+
+    border: 1px solid #D6D8DA!important;
+    border-radius: 4px!important;
+    overflow: hidden!important; /* prevents .perseus-radio-option from sticking out the corners */
+  }
+}
+
+/* Remove goofy outlines */
+.perseus-radio-option {
+  border: none!important;
+
+  margin-bottom: 0!important;
+}
+
+/* Remove giant rounded borders */
+.perseus-radio-option,
+.perseus-radio-option:active {
+  border-radius: 0px!important;
+}
+
+/* Our checkmark option is a circle, yo. */
+body.mobile .perseus-widget-radio input[type=radio]:checked {
+  background-color: #3C91E5!important;
+  width: 16px!important;
+  height: 16px!important;
+  border-radius: 50%!important;
+  border: 2px solid #FFF!important;
+  box-shadow: 0 0px 0px 2px #3C91E5!important;
+}
+
+body.mobile .perseus-widget-radio input[type=radio] {
+  background-color: #FFF!important;
+  width: 16px!important;
+  height: 16px!important;
+  border-radius: 50%!important;
+  border: 2px solid #FFF!important;
+  box-shadow: 0 0px 0px 1px #D6D8DA!important;
+  margin-top: 8px!important;
+}
+
+body.mobile .perseus-widget-radio:active input[type=radio]:active {
+  background-color: transparent!important;
+  border: none!important;
+}
+
+/* Our list options in a radio widget should be further to the left */
+body.mobile .perseus-widget-radio .perseus-radio-option .perseus-radio-option-content {
+  margin-left: 4px!important;
+}
+
+@media (min-width: 600px) {
+  body.mobile .perseus-widget-radio .perseus-radio-option .perseus-radio-option-content {
+    margin-left: 8px!important;
+  }
+}
+
+/*
+┌──────────────────────────────────────────────────┐
+│    INPUT (TEXT FIELD)                            │
+└──────────────────────────────────────────────────┘
+*/
+.perseus-input {
+  border-radius: 4px!important;
+  background-color: #FFFFFF!important;
+  border: 1px solid #D6D8DA!important;
+}
+
+.perseus-focused {
+  border: 1px solid #3C91E5!important;
+}
+
+.perseus-input div {
+  margin-top: 5px!important; /* nudges up the box to match surrounding text */
+}
+
+/*
+┌──────────────────────────────────────────────────┐
+│    SIMPLE-BUTTON                                 │
+└──────────────────────────────────────────────────┘
+*/
+
+.perseus-graded-group .simple-button {
+  background-image: none!important;
+  background-color: #3C91E5!important;
+  color: white!important;
+  text-transform: uppercase;
+  font-weight: 400!important;
+  font-size: 14pt!important;
+  padding: 15px!important;
+  border: none!important;
+}
+
+.perseus-graded-group .simple-button:hover {
+  shadow: none!important;
+}

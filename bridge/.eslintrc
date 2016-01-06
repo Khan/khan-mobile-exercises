@@ -1,0 +1,5 @@
+---
+globals:
+  ReactElement: false
+  window: false
+  document: false

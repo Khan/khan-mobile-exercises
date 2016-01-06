@@ -1,0 +1,3 @@
+[submodule "mobile-client-webview-resources"]
+	path = mobile-client-webview-resources
+	url = git@github.com:Khan/mobile-client-webview-resources.git

@@ -1,0 +1,6 @@
+node_modules
+build
+
+# TODO: un-comment this maybe later on? Don't need it for now and can't get past GitHub LFS
+first-items.json
+

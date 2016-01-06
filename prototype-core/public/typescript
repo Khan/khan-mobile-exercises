@@ -1,0 +1,1081 @@
+Script started on Fri Jan 15 13:36:58 2016
+]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..e-core/public]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public[0m[27m[24m[J[01;32m➜ [01;32m [36mpublic [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..e-core/public]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mpublic [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=sscripts[?1l>
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ublic/scripts]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public/scripts[0m[27m[24m[J[01;32m➜ [01;32m [36mscripts [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=lls[?1l>
+]2;ls -G]1;lsbuild.js
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ublic/scripts]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public/scripts[0m[27m[24m[J[01;32m➜ [01;32m [36mscripts [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..e-core/public]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/public[0m[27m[24m[J[01;32m➜ [01;32m [36mpublic [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..rototype-core]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core[0m[27m[24m[J[01;32m➜ [01;32m [36mprototype-core [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=lls[?1l>
+]2;ls -G]1;ls[1m[36mdata-cache[39;49m[0m    npm-debug.log pretty.json   [1m[36mpublic[39;49m[0m        [1m[36msrc[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..rototype-core]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core[0m[27m[24m[J[01;32m➜ [01;32m [36mprototype-core [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=ddac a ta-cache[1m/[0m[0m [?1l>
+]2;data-cache]1;data-cache[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..re/data-cache]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/data-cache[0m[27m[24m[J[01;32m➜ [01;32m [36mdata-cache [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=lls[?1l>
+]2;ls -G]1;lsall-article-ids.json      article-summaries.json    exercises.json
+all-article-ids.txt       [1m[36massessment-items[39;49m[0m
+article-ids-and-slugs.txt exercise-summaries.json
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..re/data-cache]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core/data-cache[0m[27m[24m[J[01;32m➜ [01;32m [36mdata-cache [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..rototype-core]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises/prototype-core[0m[27m[24m[J[01;32m➜ [01;32m [36mprototype-core [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;32m➜ [01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=lls[?1l>
+]2;ls -G]1;lsarticle-test.py                 [1m[36mmobile-client-webview-resources[39;49m[0m
+[1m[36mbridge[39;49m[0m                          [1m[36mnode_modules[39;49m[0m
+[1m[36mbuild[39;49m[0m                           package.json
+get-articles-and-widgets.py     [1m[36mprototype-core[39;49m[0m
+get-exercises-and-widgets.py    webpack.config.js
+[1m[36mkhan-exercise-harness[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;32m➜ [01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=ppython get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+
+Fetching item 2 of 2325...
+id:              x61abb306
+title:           Naming shapes
+desc:            Practice identifying circles, triangles, squares, and rectangles.
+type:            Exercise
+slug:            e/naming-shapes
+widgets:         radio
+
+Fetching item 3 of 2325...
+id:              x23dcffec
+title:           Comparing size
+desc:            Compare two objects to see which is bigger, smaller, taller, shorter, or longer.
+type:            Exercise
+slug:            e/which-has-more-
+widgets:         radio
+
+Fetching item 4 of 2325...
+id:              x19cd4695
+title:           Comparing numbers of objects
+desc:            Practice counting which group has more objects.
+type:            Exercise
+slug:            e/compare-groups-through-10
+widgets:         input-number, radio
+
+Fetching item 5 of 2325...
+^CTraceback (most recent call last):
+  File "get-exercises-and-widgets.py", line 59, in <module>
+    assessmentItemRaw = urlopen(assessmentItemURL).read()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1132, in getresponse
+    response.begin()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=python get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+Traceback (most recent call last):
+  File "get-exercises-and-widgets.py", line 100, in <module>
+    if true:
+NameError: name 'true' is not defined
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=python get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+Traceback (most recent call last):
+  File "get-exercises-and-widgets.py", line 105, in <module>
+    hoursRemaining = minutesElapsed / fractionComplete / 60
+ZeroDivisionError: float division by zero
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=python get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 1 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+Traceback (most recent call last):
+  File "get-exercises-and-widgets.py", line 117, in <module>
+    open("./data-cache/exercise-summaries.json", "w").write(json.dumps(exerciseSummaries))
+IOError: [Errno 2] No such file or directory: './data-cache/exercise-summaries.json'
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=python get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 1 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 2 of 2325...
+id:              x61abb306
+title:           Naming shapes
+desc:            Practice identifying circles, triangles, squares, and rectangles.
+type:            Exercise
+slug:            e/naming-shapes
+widgets:         radio
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 2 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 3 of 2325...
+id:              x23dcffec
+title:           Comparing size
+desc:            Compare two objects to see which is bigger, smaller, taller, shorter, or longer.
+type:            Exercise
+slug:            e/which-has-more-
+widgets:         radio
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 3 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 4 of 2325...
+id:              x19cd4695
+title:           Comparing numbers of objects
+desc:            Practice counting which group has more objects.
+type:            Exercise
+slug:            e/compare-groups-through-10
+widgets:         input-number, radio
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 4 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 5 of 2325...
+id:              xcf258bb4
+title:           Less and greater
+desc:            Practice saying if one number is less than or greater than another number. Numbers in these problems are between 0 and 10.
+type:            Exercise
+slug:            e/comparing-numbers-through-10
+widgets:         radio
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 5 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 6 of 2325...
+^CTraceback (most recent call last):
+  File "get-exercises-and-widgets.py", line 59, in <module>
+    assessmentItemRaw = urlopen(assessmentItemURL).read()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1132, in getresponse
+    response.begin()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+KeyboardInterrupt
+[1m[7m%[27m[1m[0m                                                                                ]2;bryan@Bryans-MBP-9]1;..ile-exercises]7;file://Bryans-MBP-9.local/Users/bryan/git/khan-mobile-exercises[0m[27m[24m[J[01;31m➜ [27m[01;32m [36mkhan-mobile-exercises [01;34mgit:([31mmaster[34m) [33m✗[00m[00m[01;34m [00m[K[?1h=python get-exercises-and-widgets.py[?1l>
+]2;python get-exercises-and-widgets.py]1;python
+
+There are 2325 exercises in exercises.json
+
+
+This... may take awhile. Just leave this thing running as long as you like.
+Progress is saved every 20 items, so no worries if you bail out early.
+If you bail out early, you won't have ALL exercises loaded - but you're probably Just Fine Without All Of The Exercises.
+
+
+
+
+OK, a REALLY IMPORTANT ANNOUNCEMENT:
+This will overwrite exercise-summaries.json - so be really sure you want to do this! I'll wait...
+I'm assuming your silence means 'ok, computer, go do your thing'?
+ok ok - here we go!
+*steps on gas pedal, screams off into the computerhorizon*
+
+Fetching item 1 of 2325...
+id:              x4debd8a3
+title:           Counting with small numbers
+desc:            Practice counting up to 10 objects.
+type:            Exercise
+slug:            e/counting-out-1-20-objects
+widgets:         orderer
+
+Fetching item 2 of 2325...
+id:              x61abb306
+title:           Naming shapes
+desc:            Practice identifying circles, triangles, squares, and rectangles.
+type:            Exercise
+slug:            e/naming-shapes
+widgets:         radio
+
+Fetching item 3 of 2325...
+id:              x23dcffec
+title:           Comparing size
+desc:            Compare two objects to see which is bigger, smaller, taller, shorter, or longer.
+type:            Exercise
+slug:            e/which-has-more-
+widgets:         radio
+
+Fetching item 4 of 2325...
+id:              x19cd4695
+title:           Comparing numbers of objects
+desc:            Practice counting which group has more objects.
+type:            Exercise
+slug:            e/compare-groups-through-10
+widgets:         input-number, radio
+
+Fetching item 5 of 2325...
+id:              xcf258bb4
+title:           Less and greater
+desc:            Practice saying if one number is less than or greater than another number. Numbers in these problems are between 0 and 10.
+type:            Exercise
+slug:            e/comparing-numbers-through-10
+widgets:         radio
+
+Fetching item 6 of 2325...
+id:              x3b1bceb9
+title:           Missing numbers
+desc:            Find the missing number in a list of numbers. Numbers used are 20 or less.
+type:            Exercise
+slug:            e/count-from-any-number
+widgets:         input-number, radio
+
+Fetching item 7 of 2325...
+id:              xa4413411
+title:           Numbers to 100
+desc:            Practice finding missing numbers in a list of numbers between 0 and 100.
+type:            Exercise
+slug:            e/count-to-100
+widgets:         input-number, radio
+
+Fetching item 8 of 2325...
+id:              x45493044
+title:           Counting in pictures
+desc:            Practice counting objects in pictures.
+type:            Exercise
+slug:            e/counting-in-scenes
+widgets:         radio
+
+Fetching item 9 of 2325...
+id:              x7d37671e
+title:           Counting in order
+desc:            Practice counting without making mistakes.
+type:            Exercise
+slug:            e/counting-objects
+widgets:         input-number, radio
+
+Fetching item 10 of 2325...
+id:              x1e13a190
+title:           How many objects 1
+desc:            Practice counting up to 20 objects. Objects are organized neatly into rows and columns.
+type:            Exercise
+slug:            e/how-many-objects-1
+widgets:         input-number, radio
+
+Fetching item 11 of 2325...
+id:              x91a89d47
+title:           One more, one less
+desc:            Practice finding one more or one less than a number.
+type:            Exercise
+slug:            e/one-more--one-less
+widgets:         radio
+
+Fetching item 12 of 2325...
+id:              x21ea1e11
+title:           How many objects 2
+desc:            Practice counting up to 20 objects in random patterns. 
+type:            Exercise
+slug:            e/how-many-objects-2
+widgets:         radio
+
+Fetching item 13 of 2325...
+id:              x442d4783
+title:           Making five
+desc:            Practice adding numbers to make 5.
+type:            Exercise
+slug:            e/making-five
+widgets:         input-number
+
+Fetching item 14 of 2325...
+id:              xaa196ff0
+title:           Put together
+desc:            Practice adding by "putting together" (with numbers less than 10).
+type:            Exercise
+slug:            e/put-together
+widgets:         input-number, image
+
+Fetching item 15 of 2325...
+id:              x9e257e86
+title:           Sort by count or category
+desc:            Practice counting to see which group has the most things in it.
+type:            Exercise
+slug:            e/sort-groups-by-count
+widgets:         categorizer, radio
+
+Fetching item 16 of 2325...
+id:              3001
+title:           Addition within five
+desc:            Add small numbers. All answers are five or less.
+type:            Exercise
+slug:            e/addition_1
+widgets:         
+
+Fetching item 17 of 2325...
+id:              x6cc2a895
+title:           Take apart
+desc:            Practice subtracting by "taking apart" (with numbers less than 10).
+type:            Exercise
+slug:            e/take-apart
+widgets:         input-number
+
+Fetching item 18 of 2325...
+id:              x9222749c
+title:           Making 10 (using grids)
+desc:            Practice adding numbers to make 10. These problems show grids to help you out.
+type:            Exercise
+slug:            e/making-ten
+widgets:         input-number
+
+Fetching item 19 of 2325...
+id:              xc8defb2d
+title:           Making small numbers in different ways
+desc:            Practice making a number by adding other numbers. All numbers in these problems are less than 10.
+type:            Exercise
+slug:            e/making-totals-in-different-ways-within-10
+widgets:         input-number
+
+Fetching item 20 of 2325...
+id:              xb5426c0c
+title:           Naming shapes 2
+desc:            Practice more challenging problems identifying circles, triangles, squares, and rectangles.
+type:            Exercise
+slug:            e/naming-shapes-2
+widgets:         radio
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 20 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 21 of 2325...
+id:              x7fdf16aa
+title:           Addition word problems within 10
+desc:            Practice solving word problems by adding small numbers (numbers 10 or less).
+type:            Exercise
+slug:            e/addition-word-problems-within-10
+widgets:         input-number, radio, image
+
+Fetching item 22 of 2325...
+id:              xc709f216
+title:           Comparing shapes
+desc:            Practice comparing shapes based on their number of sides, number of corners, and side-lengths.
+type:            Exercise
+slug:            e/compare-shapes
+widgets:         radio
+
+Fetching item 23 of 2325...
+id:              x66953b72
+title:           Making 10
+desc:            Practice adding numbers to make 10.
+type:            Exercise
+slug:            e/making-ten-2
+widgets:         input-number
+
+Fetching item 24 of 2325...
+id:              2003
+title:           Subtraction within five
+desc:            Subtract small numbers. All answers are four or less.
+type:            Exercise
+slug:            e/subtraction_1
+widgets:         
+
+Fetching item 25 of 2325...
+id:              x4c1168bf
+title:           Teen numbers
+desc:            Practice thinking of teen numbers as a ten plus some ones.
+type:            Exercise
+slug:            e/teen-numbers-1
+widgets:         input-number, radio
+
+Fetching item 26 of 2325...
+id:              x01195ec8
+title:           Composing shapes
+desc:            Practice combining shapes to make other shapes.
+type:            Exercise
+slug:            e/compose-shapes
+widgets:         radio
+
+Fetching item 27 of 2325...
+id:              x5a52727d
+title:           Relate addition and subtraction
+desc:            Practice seeing how addition and subtraction are related.
+type:            Exercise
+slug:            e/relate-addition-and-subtraction
+widgets:         input-number
+
+Fetching item 28 of 2325...
+id:              x628efcb1
+title:           Subtraction word problems within 10
+desc:            Practice solving word problems by subtracting small numbers (numbers 10 or less).
+type:            Exercise
+slug:            e/subtraction-word-problems-within-10
+widgets:         input-number, radio
+
+Fetching item 29 of 2325...
+id:              x5609ed53
+title:           Addition and subtraction within 10
+desc:            Practice solving a bunch of addition and subtraction problems with small numbers (numbers 10 or less).
+type:            Exercise
+slug:            e/addition-and-subtraction-within-10
+widgets:         input-number
+
+Fetching item 30 of 2325...
+id:              x17841746
+title:           Naming shapes 3
+desc:            Practice identifying circles, triangles, squares, rectangles, rhombuses, trapezoids, and hexagons.
+type:            Exercise
+slug:            e/attributes-of-shapes
+widgets:         radio
+
+Fetching item 31 of 2325...
+id:              x591b47e5
+title:           Numbers to 120
+desc:            Practice finding missing numbers in a list of numbers between 0 and 120.
+type:            Exercise
+slug:            e/numbers-to-120
+widgets:         input-number
+
+Fetching item 32 of 2325...
+id:              x65781462
+title:           Order by length
+desc:            Order three objects by length.  Compare the lengths of two objects indirectly by using a third object.
+type:            Exercise
+slug:            e/order-by-length
+widgets:         dropdown, sorter
+
+Fetching item 33 of 2325...
+id:              xfbbac4b6
+title:           Two-digit place value challenge
+desc:            Practice breaking numbers apart into tens and ones.
+type:            Exercise
+slug:            e/understanding-2-digit-numbers
+widgets:         radio
+
+Fetching item 34 of 2325...
+id:              3002
+title:           Addition within 20
+desc:            Practice adding. All numbers in these problems are 20 or less.
+type:            Exercise
+slug:            e/addition_2
+widgets:         
+
+Fetching item 35 of 2325...
+id:              x964ad333
+title:           Comparing two-digit numbers
+desc:            Practice comparing numbers using the symbols <, >, and =. All numbers in these problems are within 100.
+type:            Exercise
+slug:            e/comparing_whole_numbers
+widgets:         
+
+Fetching item 36 of 2325...
+id:              x88462d67
+title:           Groups of ten objects
+desc:            Practice grouping objects by tens.
+type:            Exercise
+slug:            e/groups-of-tens
+widgets:         input-number
+
+Fetching item 37 of 2325...
+id:              x1a3a9be9
+title:           Halves and fourths
+desc:            Practice dividing shapes into two or four equal sections.
+type:            Exercise
+slug:            e/halves-and-fourths
+widgets:         radio
+
+Fetching item 38 of 2325...
+id:              x51fac697
+title:           Measuring lengths 1
+desc:            Measure objects with same-size length units without gaps or overlaps.
+type:            Exercise
+slug:            e/measuring-lengths-1
+widgets:         input-number, radio
+
+Fetching item 39 of 2325...
+id:              x0077c324
+title:           Tens and ones
+desc:            Practice thinking about 2-digit numbers as tens and ones.
+type:            Exercise
+slug:            e/tens-and-ones
+widgets:         input-number
+
+Fetching item 40 of 2325...
+id:              x04a22494
+title:           Comparing two-digit numbers 2
+desc:            Practice more challenging problems comparing numbers within 100.
+type:            Exercise
+slug:            e/comparing-two-digit-numbers-1
+widgets:         categorizer, radio, sorter
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 40 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 41 of 2325...
+id:              3004
+title:           Subtraction within 20
+desc:            Practice subtracting. All numbers in these problems are 20 or less.
+type:            Exercise
+slug:            e/subtraction_2
+widgets:         
+
+Fetching item 42 of 2325...
+id:              x8bcedc81
+title:           The equals sign
+desc:            Practice telling which equation is true.
+type:            Exercise
+slug:            e/meaning-of-equal-sign-1
+widgets:         radio
+
+Fetching item 43 of 2325...
+id:              x72f28632
+title:           Addition and subtraction word problems 1
+desc:            Practice adding and subtracting to solve word problems. Numbers used are 20 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-20--level-1
+widgets:         input-number, radio
+
+Fetching item 44 of 2325...
+id:              xba2c6e37
+title:           Adding three numbers
+desc:            Practice adding three numbers. All numbers in these problems are 20 or less.
+type:            Exercise
+slug:            e/adding-three-numbers
+widgets:         input-number
+
+Fetching item 45 of 2325...
+id:              xca7c7993
+title:           Addition and subtraction word problems 2
+desc:            Practice solving more challenging word problems with addition and subtraction. The problems are more challenging because you have to think about a missing number in an addition or subtraction problem. Numbers used are 20 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-20--level-2
+widgets:         input-number, radio
+
+Fetching item 46 of 2325...
+id:              x46f76d31
+title:           Adding 1 or 10
+desc:            Practice solving problems like 34+1 and 34+10.
+type:            Exercise
+slug:            e/add-within-100--level-1
+widgets:         input-number
+
+Fetching item 47 of 2325...
+id:              x7fd51443
+title:           Word problems with "more" and "fewer" 1
+desc:            Practice solving word problems by finding how many more (or fewer) objects there are. Numbers used are 20 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-20--level-3
+widgets:         input-number
+
+Fetching item 48 of 2325...
+id:              xd1617bb2
+title:           Breaking apart two-digit addition problems
+desc:            Practice breaking apart problems like 23+45 into problems like 20+40+3+5.
+type:            Exercise
+slug:            e/breaking-apart-two-digit-addition-problems
+widgets:         radio
+
+Fetching item 49 of 2325...
+id:              x4d888490
+title:           Adding 1s or 10s (no regrouping)
+desc:            Practice solving problems like 34+5 and 34+50.
+type:            Exercise
+slug:            e/adding-1s-or-10s-to-two-digit-numbers
+widgets:         input-number
+
+Fetching item 50 of 2325...
+id:              xbe53bb9a
+title:           Word problems with "more" and "fewer" 2
+desc:            Practice solving more word problems by finding how many more (or fewer) objects there are. Numbers used are 20 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-20--level-4
+widgets:         input-number, radio
+
+Fetching item 51 of 2325...
+id:              x1c60e130
+title:           Solving problems with bar graphs 1
+desc:            Read and interpret bar graphs.
+type:            Exercise
+slug:            e/solving-problems-with-bar-graphs-1
+widgets:         image, input-number
+
+Fetching item 52 of 2325...
+id:              x88da884c
+title:           Adding two-digit numbers (no regrouping)
+desc:            Practice solving problems like 24 + 45.
+type:            Exercise
+slug:            e/add-within-100--level-2
+widgets:         input-number
+
+Fetching item 53 of 2325...
+id:              xf40f5fa2
+title:           Regrouping when adding one-digit numbers
+desc:            Practice adding numbers like 45+8.
+type:            Exercise
+slug:            e/regroup-two-digit-plus-one-digit
+widgets:         input-number
+
+Fetching item 54 of 2325...
+id:              x98f33113
+title:           Subtracting 1 or 10
+desc:            Practice subtracting 1 or 10 from a two-digit number. (No regrouping)
+type:            Exercise
+slug:            e/subtract-with-in-100-level-1
+widgets:         input-number
+
+Fetching item 55 of 2325...
+id:              3003
+title:           Addition within 100
+desc:            Practice adding two-digit numbers. All numbers in these problems are 100 or less.
+type:            Exercise
+slug:            e/addition_3
+widgets:         
+
+Fetching item 56 of 2325...
+id:              xf3912ca9
+title:           Hundreds, tens, and ones
+desc:            Practice thinking about 3-digit numbers as hundreds, tens, and ones.
+type:            Exercise
+slug:            e/hundreds--tens--and-ones
+widgets:         input-number
+
+Fetching item 57 of 2325...
+id:              xf24bd181
+title:           Adding two-digit numbers by making tens
+desc:            Practice adding two-digit numbers like 43+27 that sum to a nice multiple of 10.
+type:            Exercise
+slug:            e/making-100
+widgets:         input-number
+
+Fetching item 58 of 2325...
+id:              x30433280
+title:           Measuring lengths 2
+desc:            Measure objects using a ruler.
+type:            Exercise
+slug:            e/measuring-lengths-2
+widgets:         input-number, radio, measurer
+
+Fetching item 59 of 2325...
+id:              x069651ee
+title:           Subtracting 1s or 10s (no regrouping)
+desc:            Practice solving problems like 67-5 and 67-50.
+type:            Exercise
+slug:            e/subtracting-1s-or-10s
+widgets:         input-number
+
+Fetching item 60 of 2325...
+id:              x7945ca00
+title:           Comparing lengths
+desc:            Find the difference between two lengths.
+type:            Exercise
+slug:            e/comparing-lengths
+widgets:         input-number, dropdown
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 60 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 61 of 2325...
+id:              x5e2ffea1
+title:           Estimating lengths
+desc:            Estimate lengths using units of inches, feet, centimeters, and meters.
+type:            Exercise
+slug:            e/estimating-lengths
+widgets:         radio
+
+Fetching item 62 of 2325...
+id:              x36b63b23
+title:           Filling rectangles with same-sized squares
+desc:            
+type:            Exercise
+slug:            e/filling-rectangles-with-same-sized-squares
+widgets:         input-number
+
+Fetching item 63 of 2325...
+id:              x1dbdedec
+title:           Adding two-digit numbers by making tens 2
+desc:            Practice adding two-digit numbers by making groups of ten. For example, when adding 27 + 44, we can take 3 from 44 to get 27 + 3 = 30 then add the remaining 41 to get to 71.
+type:            Exercise
+slug:            e/making-100-level-2
+widgets:         input-number, numeric-input
+
+Fetching item 64 of 2325...
+id:              x4da2a0cd
+title:           Measuring lengths with different units
+desc:            Measure the length of an object twice, using length units of different lengths for the two measurements.
+type:            Exercise
+slug:            e/measuring-lengths-with-different-units
+widgets:         input-number, dropdown
+
+Fetching item 65 of 2325...
+id:              xdced3365
+title:           Naming shapes 4
+desc:            Practice identifying quadrilaterals, pentagons, hexagons, and octagons.
+type:            Exercise
+slug:            e/recognizing-shapes
+widgets:         radio
+
+Fetching item 66 of 2325...
+id:              xee140f80
+title:           Regrouping when subtracting one-digit numbers
+desc:            Practice solving problems like 46-9.
+type:            Exercise
+slug:            e/regroup-two-dig-minus-one-dig
+widgets:         input-number
+
+Fetching item 67 of 2325...
+id:              xe57c7e64
+title:           Skip-counting by 5s
+desc:            Practice counting by fives.
+type:            Exercise
+slug:            e/skip-counting-by-5s
+widgets:         input-number, radio
+
+Fetching item 68 of 2325...
+id:              x6e2a3a85
+title:           Solving problems with line plots 1
+desc:            Answer questions using line plots and data sets.
+type:            Exercise
+slug:            e/solving-problems-with-line-plots-1
+widgets:         input-number
+
+Fetching item 69 of 2325...
+id:              x0e985069
+title:           Solving problems with picture graphs 1
+desc:            Read and interpret picture graphs.
+type:            Exercise
+slug:            e/solving-problems-with-picture-graphs-1
+widgets:         plotter, input-number
+
+Fetching item 70 of 2325...
+id:              xd3a69af5
+title:           Subtracting two-digit numbers (no regrouping)
+desc:            Practice solving problems like 45 - 24.
+type:            Exercise
+slug:            e/subtract-within-100-level-2
+widgets:         input-number
+
+Fetching item 71 of 2325...
+id:              xe4bff650
+title:           Three-digit place value challenge
+desc:            Practice breaking numbers into hundreds, tens, and ones.
+type:            Exercise
+slug:            e/writing-numbers-to-1000
+widgets:         radio
+
+Fetching item 72 of 2325...
+id:              xecdbcf70
+title:           Comparing three-digit numbers
+desc:            Practice more challenging problems comparing numbers within 1000.
+type:            Exercise
+slug:            e/comparing-numbers-within-1000
+widgets:         radio, sorter
+
+Fetching item 73 of 2325...
+id:              x6e130652
+title:           Making line plots, bar graphs, and picture graphs
+desc:            Practice creating line plots, bar graphs, and picture graphs from data sets.
+type:            Exercise
+slug:            e/creating-line-plots-1
+widgets:         plotter, input-number
+
+Fetching item 74 of 2325...
+id:              x65d28762
+title:           Equal parts of circles and rectangles
+desc:            Practice telling if shapes are divided into two or four equal sections.
+type:            Exercise
+slug:            e/equal-parts-of-circles-and-rectangles
+widgets:         radio
+
+Fetching item 75 of 2325...
+id:              xc0f0dfd0
+title:           Skip-counting by 10s
+desc:            Practice counting by tens.
+type:            Exercise
+slug:            e/skip-counting-by-10s
+widgets:         input-number, radio
+
+Fetching item 76 of 2325...
+id:              x1b086877
+title:           Adding and subtracting using a number line
+desc:            Practice adding and subtracting numbers like 54 and 37 using a number line. Numbers used in these problems are all less than 100.
+type:            Exercise
+slug:            e/add-sub-within-100-w-num-line
+widgets:         radio, numeric-input
+
+Fetching item 77 of 2325...
+id:              xa90a904a
+title:           Select strategies for adding within 100
+desc:            Practice telling which strategies work for adding two numbers within 100.
+type:            Exercise
+slug:            e/select-strategies-for-adding-within-100
+widgets:         radio
+
+Fetching item 78 of 2325...
+id:              x4f91957a
+title:           Skip-counting by 100s
+desc:            Practice counting by hundreds.
+type:            Exercise
+slug:            e/skip-counting-by-100s
+widgets:         input-number, radio
+
+Fetching item 79 of 2325...
+id:              2004
+title:           Subtraction within 100
+desc:            Practice subtracting two-digit numbers.
+type:            Exercise
+slug:            e/subtraction_3
+widgets:         
+
+Fetching item 80 of 2325...
+id:              xfc04e712
+title:           Addition and subtraction within 100 word problems 1
+desc:            Practice adding and subtracting to solve word problems. Numbers used are 100 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-100--level-1
+widgets:         input-number
+
+
+
+
+
+
+**************************************************** PROGRESS SAVED TO DISK!
+...we've fetched 80 items...
+But! You can quit any time, and progress to this point will be saved. You'll be able to design-in-the-browser with everything we've fetched so far.
+Back to your regularly-scheduled mundane printouts...
+
+Fetching item 81 of 2325...
+id:              x2714254c
+title:           Addition and subtraction within 100 word problems 2
+desc:            Practice solving more challenging word problems with addition and subtraction. The problems are more challenging because you have to think about a missing number in an addition or subtraction problem. Numbers used are 100 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-100--level-2
+widgets:         input-number
+
+Fetching item 82 of 2325...
+id:              x3577d456
+title:           Find the missing number (addition and subtraction within 100)
+desc:            Practice solving problems like "___ - 45 = 27" where you have to figure out the missing value in an addition or subtraction equation.
+type:            Exercise
+slug:            e/find-the-missing-number-add-sub-within-100
+widgets:         numeric-input
+
+Fetching item 83 of 2325...
+id:              xc915a58b
+title:           Repeated addition
+desc:            Practice solving word problems by adding the same number many times.
+type:            Exercise
+slug:            e/repeated-addition
+widgets:         radio
+
+Fetching item 84 of 2325...
+id:              x996e32c0
+title:           Word problems within 100 with "more" and "fewer" 1
+desc:            Practice solving word problems by finding how many more (or fewer) objects there are. Numbers used are 100 or less.
+type:            Exercise
+slug:            e/addition-and-subtraction-word-problems-within-100--level-3
+widgets:         input-number
+
+Fetching item 85 of 2325...
+id:              324885543
+title:           Telling time with a labeled clock
+desc:            Tell time on labeled analog clocks.
+type:            Exercise
+slug:            e/telling_time_0.5
+widgets:         
+
+Fetching item 86 of 2325...
+id:              x178c1d6a
+title:           Adding and subtracting on the number line word problems
+desc:            Practice adding and subtracting using the number line. Numbers used are 100 or less.
+type:            Exercise
+slug:            e/adding-and-subtracting-on-the-number-line-word-problems
+widgets:         input-number, radio
+
+Fetching item 87 of 2325...

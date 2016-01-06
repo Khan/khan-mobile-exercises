@@ -1,0 +1,3553 @@
+[
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "The correct answer is:\n\n$\\qquad -21$", 
+          "images": {}, 
+          "widgets": {}
+        }
+      ], 
+      "question": {
+        "content": "$\\begin{align} \\qquad \\dfrac{1}{2}x-\\dfrac{1}{3}y&=\\dfrac{15}{2} \\\\\\\\\n3x-y&= 24 \\end{align}$\n\nAccording to the system of equations above, what is \nthe value of $xy$?\n\n[[\u2603 radio 1]]", 
+        "images": {}, 
+        "widgets": {
+          "radio 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "options": {
+              "onePerLine": true, 
+              "noneOfTheAbove": false, 
+              "choices": [
+                {
+                  "content": "$\u2212117$\n\n", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$\u221221$\n\n", 
+                  "correct": true
+                }, 
+                {
+                  "content": "$14$\n\n", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$99$", 
+                  "correct": false
+                }
+              ], 
+              "displayCount": null, 
+              "multipleSelect": false, 
+              "randomize": false
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "radio"
+    ], 
+    "assessment_item_id": "x527565a644dad6c9", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Eli Feasley", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJPCxIIVXNlckRhdGEiQXVzZXJfaWRfa2V5X2h0dHA6Ly9nb29nbGVpZC5raGFuYWNhZGVteS5vcmcvMTA0NjI3Njk5Mjg5Njg1Nzk2NTYyDA", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/batch_upload/sat-field-testing-math-7.png", 
+          "serving_url": "http://lh3.googleusercontent.com/JNRE8d6rpkxY7Yg4zWpWEnjYw47v5owgPKFgx9xh5-_M170oEmXdElGp33sHzS5MzJQcZsoCBz-1GTU5QGibSksFYQ"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "SAT Field Testing Math 7", 
+      "description": "SAT Field Testing Math 7", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "38a1af9a504546763eb357ce033be20f3b185b69", 
+              "live": true, 
+              "id": "x527565a644dad6c9"
+            }, 
+            {
+              "sha": "0b67499b058882d3222c57dfefeb14b8fe7793fe", 
+              "live": true, 
+              "id": "x4730b841c8eb6150"
+            }, 
+            {
+              "sha": "023428767a98e3d6c4805a280d9b4a49bc906008", 
+              "live": true, 
+              "id": "x2ab2ba08a1d37b9d"
+            }, 
+            {
+              "sha": "4188458225a01bc84222ff0f6134e02c8f061d76", 
+              "live": true, 
+              "id": "xb5a410c472b91c47"
+            }, 
+            {
+              "sha": "b0a2af4b6184c1509222263147267cffefc104ed", 
+              "live": true, 
+              "id": "x50e724a2c7697691"
+            }, 
+            {
+              "sha": "cb34405d649c9a4f3a4b6b81da44ff4b7f517d5c", 
+              "live": true, 
+              "id": "x929b56ab51d886b2"
+            }, 
+            {
+              "sha": "a4aeff13dd3a7656809565b373b7b12f49971f42", 
+              "live": true, 
+              "id": "x433cd34932216cea"
+            }, 
+            {
+              "sha": "0c0cb74979e04c38a38fea4d595998b9071f78a3", 
+              "live": true, 
+              "id": "x5c0c1cd9068a0e9e"
+            }, 
+            {
+              "sha": "12f0ad59594a9252984eed9696a844bb58484355", 
+              "live": true, 
+              "id": "x4925a45fc5a20023"
+            }, 
+            {
+              "sha": "268ca4d4c4cf926fe8ab409526e4ee1a58cbc584", 
+              "live": true, 
+              "id": "xbdbcd864de3110c7"
+            }, 
+            {
+              "sha": "452f7f7926ba79ace15da4754e65e7eb66cee689", 
+              "live": true, 
+              "id": "xdec577a63bf30688"
+            }, 
+            {
+              "sha": "b16032ef476cd0726e534db275be8d1cf3b76c37", 
+              "live": true, 
+              "id": "x0d8b5930d8c89401"
+            }, 
+            {
+              "sha": "9c270d712947450cbadb6cb5159dc38c91e1dbe3", 
+              "live": true, 
+              "id": "xd4db2a81c9064c6c"
+            }, 
+            {
+              "sha": "9100326f277a356c9de287810c325e607712d993", 
+              "live": true, 
+              "id": "xca22fb3bb4a5f75a"
+            }, 
+            {
+              "sha": "75c16b3b284e1582ef329f71dfd0d0f0a3965431", 
+              "live": true, 
+              "id": "x1d15450187103376"
+            }, 
+            {
+              "sha": "ba18d96cf3abc4c300e86b927dd35ac64ee8f9e2", 
+              "live": true, 
+              "id": "xbc704d5d6f075558"
+            }, 
+            {
+              "sha": "ba23f17a2265ca96de38ed76ed730118d4cbad17", 
+              "live": true, 
+              "id": "x75b4c2f94a617adb"
+            }, 
+            {
+              "sha": "a2e80c590b31480090b32dc4e5474e71da4dac5a", 
+              "live": true, 
+              "id": "xcc596b16891b3031"
+            }, 
+            {
+              "sha": "7746c883f609805a6bc419bf3a5134d09fa0f074", 
+              "live": true, 
+              "id": "x5a8b259f3f99e558"
+            }
+          ], 
+          "name": "items"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "space-ninjas", 
+              "id": "x6807e5e3"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "sat-field-testing", 
+              "id": "x17a2d947"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "sat-field-testing-math-7", 
+              "id": "xf2908b15"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeGYyOTA4YjE1DA", 
+      "current_revision_key": "7886c381d9c18555f708ba1ba6b17dbfd3def6b0", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "sat-field-testing-math-7", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "SAT Field Testing Math 7", 
+      "key_id": "xf2908b15", 
+      "content_id": "xf2908b15", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Math anchor page 5", 
+      "tags": [
+        5804827145666560, 
+        5839688321466368, 
+        5774061221183488, 
+        5901084878962688, 
+        5858580540424192, 
+        5863619879239680, 
+        5865899567349760, 
+        5816353764147200
+      ], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"$\\\\begin{align} \\\\qquad \\\\dfrac{1}{2}x-\\\\dfrac{1}{3}y&=\\\\dfrac{15}{2} \\\\\\\\\\\\\\\\\\n3x-y&= 24 \\\\end{align}$\\n\\nAccording to the system of equations above, what is \\nthe value of $xy$?\\n\\n[[\u2603 radio 1]]\",\"images\":{},\"widgets\":{\"radio 1\":{\"type\":\"radio\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"$\u2212117$\\n\\n\",\"correct\":false},{\"content\":\"$\u221221$\\n\\n\",\"correct\":true},{\"content\":\"$14$\\n\\n\",\"correct\":false},{\"content\":\"$99$\",\"correct\":false}],\"randomize\":false,\"multipleSelect\":false,\"displayCount\":null,\"noneOfTheAbove\":false,\"onePerLine\":true},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"The correct answer is:\\n\\n$\\\\qquad -21$\",\"images\":{},\"widgets\":{}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": null, 
+      "author_names": [
+        "Brenda Hodges"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "913566548265e88c09e63ff1c74d7c7a2d903ca0", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "We know $a^2 + b^2 = c^2$.", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "We want to find $c$; let $a = 7$ and $b = 4$.", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "$ \\begin{align} c^2 &= 7^2 + 4^2 \\\\ c^2 &= 49 + 16 \\\\ c^2 &= 65 \\\\ c &= \\sqrt{65} \\end{align} $", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The radical cannot be simplified, so $c = 1\\sqrt{65}$ or just $\\sqrt{65}$.", 
+          "images": {}, 
+          "widgets": {}
+        }
+      ], 
+      "question": {
+        "content": "In the right triangle shown, $AC = 4$ and $BC = 7$.\n\n What is $AB$?\n\n \n\n ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/08a66089eeac46ba2db3312488f893ac54fbf84d)\n\n", 
+        "images": {
+          "web+graphie://ka-perseus-graphie.s3.amazonaws.com/08a66089eeac46ba2db3312488f893ac54fbf84d": {
+            "width": 274, 
+            "height": 180
+          }
+        }, 
+        "widgets": {}
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [], 
+    "assessment_item_id": "x75eff4e8d940546d", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Marcia Lee", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXIYCxIIVXNlckRhdGEiCm1hcmNpYS5sZWUM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/batch_upload/redo-of-pythagorean-theorem-1.png", 
+          "serving_url": "http://lh3.googleusercontent.com/4hHOL7qkop3ImoY1jZQCrKybV9NZTUPIKTi8DDJz_fyblNj7bSz7SlbxS2sACVP3fxMZTeB65LxTGYsDAloLmVA_"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Redo of pythagorean theorem 1 conversion", 
+      "description": "Redo of pythagorean theorem 1 conversion", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "c2950fe304500b8fe157ae62536658c2daf5e410", 
+              "live": true, 
+              "id": "x75eff4e8d940546d", 
+              "perseus_api_major_version": 0
+            }, 
+            {
+              "sha": "5f2ee236c90d7fd5d1206865e07a83015d2e3413", 
+              "live": true, 
+              "id": "x13c1b2d32fe2c325", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "3ae3a8e1b81d2baf1700d6a95e002de0e6d5de90", 
+              "live": true, 
+              "id": "x0ff322a568a3400c", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "4bef75208a34a53136f5756a6e6352710d12e617", 
+              "live": true, 
+              "id": "x0753cfc3499e8ae3", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "b8790d007e18f8bb9ece4ae6f564c53c9ba681b3", 
+              "live": true, 
+              "id": "x21039fa3a627bd5b", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "9bf094923cdb074686c2a0401480dd66d9934d59", 
+              "live": true, 
+              "id": "x95b35be368d02fc5", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "e85f81d2dff4c9056b10cc5896abda1812003f7b", 
+              "live": true, 
+              "id": "x2cbe5abdfa5da808", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "50a4d0f0c7094530d0b0c8f248c3785193216c8b", 
+              "live": true, 
+              "id": "x4a39beffaadfeb96", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "448f8be20cf1623ad9d1196b5c17b9b82f23a087", 
+              "live": true, 
+              "id": "x0b3a4c4c9dd3513e", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "652a692e97a68625a7dada99f0d5e0d6b447311b", 
+              "live": true, 
+              "id": "x0856ad87760076a4", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "d0fcf22539afbd2d66b8e3ea8549d662a6f3d835", 
+              "live": true, 
+              "id": "xb7768d6a45afd3a5", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "fd90e20e1383deff261cdc779fd6bd646b82953b", 
+              "live": true, 
+              "id": "x1861c4a671003c9c", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "012c25265d8832c8dd5bd7f7f04d17c91e31d8df", 
+              "live": true, 
+              "id": "x1b0620e0d0f06c2e", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "8955c81ea169eea03177397d62d1b481310b725f", 
+              "live": true, 
+              "id": "x0328dc5cfd05cbcd", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "7bd4d8f429d0b1bbeca365f81b9103e5abd15e3f", 
+              "live": true, 
+              "id": "x4892b45112947ed5", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "3c980dc4418bbf95ec2c5fb6ae37921ec5e13de3", 
+              "live": true, 
+              "id": "x883c389ab9566397", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "d0adc1aacab192bda66e751d930f70fb85d3ecea", 
+              "live": true, 
+              "id": "x04f89e9354bf6bbf", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "fe6399f36964a8258ec5608da9c8f175355235d9", 
+              "live": true, 
+              "id": "xb678375023b902a1", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "cf995e0c9a69de0e48310d3c3b0e9c919b9f402d", 
+              "live": true, 
+              "id": "xcc22c0652642baf8", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "0f21df523b70736530a25c74d5791f40c863ed06", 
+              "live": true, 
+              "id": "x0a934592c7b2df54", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "16325174c6071bdbef78c63b5f49bc4044edb175", 
+              "live": true, 
+              "id": "x49fe56600e5876ea", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "81b2b86d24a962101b7cc9ea0c7f6f0ef58ecc79", 
+              "live": true, 
+              "id": "x55d53cf76db2d227", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "5f8f5d8ff6559e8ef1719575db33071c9f1d2057", 
+              "live": true, 
+              "id": "xfdda307a5c729ed1", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "a3377c7d05fb93abffa8bba887cf597e3f657135", 
+              "live": true, 
+              "id": "x293a547c2d58c012", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "bdeb0a3f91204f234489f523c941aa2016cefa5a", 
+              "live": true, 
+              "id": "xcc27ac5c4c800e48", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "2b4aa0e4b53a9f3dbacfbd32cde432a94c3c8b19", 
+              "live": true, 
+              "id": "x90dfc5017b63c349", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "8f207187b021265cc643df2f672f87124ebf4cc9", 
+              "live": true, 
+              "id": "x5c6d2032aa5717dd", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "56ff4633aca5b873fe61af6c4c2bbe861efdbdb3", 
+              "live": true, 
+              "id": "x772b89986512c5a1", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "ef6b7a78a27b533853fbef43f75a7aea401f69bb", 
+              "live": true, 
+              "id": "x7899b6c5f1cf6bb4", 
+              "perseus_api_major_version": null
+            }, 
+            {
+              "sha": "f2c7f9b482e77890ed3cd62fe540bfdcc7128d91", 
+              "live": true, 
+              "id": "xf08fcf98af36c453", 
+              "perseus_api_major_version": null
+            }
+          ], 
+          "name": "Type 1"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "puppies", 
+              "id": "xfbfcb2c7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "emilys-sandbox", 
+              "id": "xc4a2315a"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "converted-khan-exercises", 
+              "id": "x326a7b1b"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "redo-of-pythagorean-theorem-1", 
+              "id": "x4433bc03"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDQ0MzNiYzAzDA", 
+      "current_revision_key": "700462d125f8319a11751a96148a073de8a01d34", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "redo-of-pythagorean-theorem-1", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:49Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Redo of pythagorean theorem 1", 
+      "key_id": "x4433bc03", 
+      "content_id": "x4433bc03", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Item 1", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"In the right triangle shown, $AC = 4$ and $BC = 7$.\\n\\n What is $AB$?\\n\\n \\n\\n ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/08a66089eeac46ba2db3312488f893ac54fbf84d)\\n\\n\",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/08a66089eeac46ba2db3312488f893ac54fbf84d\":{\"width\":274,\"height\":180}},\"widgets\":{}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"We know $a^2 + b^2 = c^2$.\",\"images\":{},\"widgets\":{}},{\"content\":\"We want to find $c$; let $a = 7$ and $b = 4$.\",\"images\":{},\"widgets\":{}},{\"content\":\"$ \\\\begin{align} c^2 &= 7^2 + 4^2 \\\\\\\\ c^2 &= 49 + 16 \\\\\\\\ c^2 &= 65 \\\\\\\\ c &= \\\\sqrt{65} \\\\end{align} $\",\"images\":{},\"widgets\":{}},{\"content\":\"The radical cannot be simplified, so $c = 1\\\\sqrt{65}$ or just $\\\\sqrt{65}$.\",\"images\":{},\"widgets\":{}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": 0, 
+      "author_names": [
+        "Marcia Lee"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "c2950fe304500b8fe157ae62536658c2daf5e410", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "The *$y$-intercept* of the graph $y=m(x)$ is the $y$-value of the point at which this graph crosses the $y$-axis.  Since all points on the $y$-axis have an $x$-value of $\\redD{0}$, we can find the $y$-intercept by calculating $m(\\redD{0})$. \n\nThe quadratic function $m(x)$ is given in three different forms:\n\n>$\\begin{align}m(x)=-2x^2+24x-54&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Standard Form}\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Factored Form}\\\\\\\\\nm(x)=-2(x-6)^2+18&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Vertex Form}\\\\\\\\\n\\end{align}$\n\nWhich form *most easily* allows us to calculate $m(\\redD{0})$ ? ", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The *standard form* of the function *most easily* allows us to calculate $m({0})$:\n\n>$m(\\redD{0})=-2(\\redD{0})^2+24(\\redD{0})-54=-54$\n\n**We can conclude that the $y$-intercept is $(0,-54)$**, as shown below: \n\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/12b0f67fbf8ff27b4aed0a1f474c7fb944b7d50e)\n\nIn general, for any quadratic function written in standard form $f(x)=ax^2+bx\\greenD{+c}$, we can immediately conclude that the $y$-intercept is $(0,\\greenD{c})$.", 
+          "images": {
+            "web+graphie://ka-perseus-graphie.s3.amazonaws.com/12b0f67fbf8ff27b4aed0a1f474c7fb944b7d50e": {
+              "width": 425, 
+              "height": 425
+            }
+          }, 
+          "widgets": {}
+        }, 
+        {
+          "content": "**In conclusion:**\n\n* **The standard form $m(x)=-2x^2+24x-54$ most easily  reveals the $y$-intercept of the graph $y=m(x)$**. [[\u2603 explanation 1]]\n\n* **The $y$-intercept of $m(x)$ is $(0,-54)$ **.", 
+          "images": {}, 
+          "widgets": {
+            "explanation 1": {
+              "version": {
+                "major": 0, 
+                "minor": 0
+              }, 
+              "type": "explanation", 
+              "graded": true, 
+              "alignment": "default", 
+              "options": {
+                "hidePrompt": "Got it, thanks!", 
+                "explanation": "We could also calculate $m(\\redD{0})$ using the other two forms:\n\n >$m(\\redD{0})=-2(\\redD{0}-3)(\\redD{0}-9)=-2(-3)(-9)=-54$\n\n>$m(\\redD{0})=-2(\\redD{0}-6)^2+18=-2(-6)^2+18=-54$\n\nHowever, both of these calculations require multiple steps. \n\nTo summarize, the $y$-intercept $(0,-54)$ is not *immediately* visible in either of these forms, whereas it *is* immediately  visible in standard form.  ", 
+                "showPrompt": "What about the other forms?"
+              }
+            }
+          }
+        }
+      ], 
+      "question": {
+        "content": "The function $m(x)$ is shown below in three equivalent forms.  \n\n**Choose the form that most easily reveals the $y$-intercept of the graph $y=m(x)$.**\n\n[[\u2603 radio 1]]\n\n**What is the $y$-intercept of $m(x)$ ?**\n\n$y$-intercept $=(0,$ [[\u2603 numeric-input 1]]$)$", 
+        "images": {}, 
+        "widgets": {
+          "numeric-input 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "numeric-input", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "coefficient": false, 
+              "labelText": "", 
+              "answers": [
+                {
+                  "status": "correct", 
+                  "maxError": null, 
+                  "strict": false, 
+                  "value": -54, 
+                  "simplify": "required", 
+                  "message": ""
+                }
+              ], 
+              "size": "small"
+            }
+          }, 
+          "radio 1": {
+            "version": {
+              "major": 1, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "onePerLine": true, 
+              "displayCount": null, 
+              "choices": [
+                {
+                  "content": "$m(x)=-2x^2+24x-54$", 
+                  "correct": true
+                }, 
+                {
+                  "content": "$m(x)=-2(x-3)(x-9)$", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$m(x)=-2(x-6)^2+18$", 
+                  "isNoneOfTheAbove": false, 
+                  "correct": false
+                }
+              ], 
+              "hasNoneOfTheAbove": false, 
+              "multipleSelect": false, 
+              "randomize": true, 
+              "deselectEnabled": false
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "periodicTable": false, 
+        "calculator": true, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "radio", 
+      "numeric-input"
+    ], 
+    "assessment_item_id": "x022a8df247f388b2", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Tomer Gal", 
+      "v_position": -1, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXIXCxIIVXNlckRhdGEiCVRvbWVyIEdhbAw", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/8dc9ec091ff25b949ba80f1b2d28131c.png", 
+          "serving_url": "http://lh3.googleusercontent.com/vBAL2RDOz8OsVLxhzR7-Zidfl1sDAhx3nGBlfCbXxrkxzpMNdoqrD90COLnug016r0e5sXlISosf9E8OZw3pJAVw"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 80, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (&quot;roots&quot;) of the function, and the vertex of the parabola.", 
+      "description": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (\"roots\") of the function, and the vertex of the parabola.", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "163f2c92aa598b921c36cc658d6cf4bc6c38113a", 
+              "live": true, 
+              "id": "x022a8df247f388b2"
+            }, 
+            {
+              "sha": "907de5741947313e7054c9d879ab29f2267d43cc", 
+              "live": true, 
+              "id": "xe371d7c01bdab649"
+            }, 
+            {
+              "sha": "5bbb29c34a1ca076dad35aba2189defa12e6e930", 
+              "live": true, 
+              "id": "x0653cd591a26baa7"
+            }, 
+            {
+              "sha": "d804b81c06a9d387cf4de920892fe049e30a7b72", 
+              "live": true, 
+              "id": "x0584f0c94c11cda3"
+            }, 
+            {
+              "sha": "99ad9e467b7907813b2cfbe15560e6b5ad08f9d3", 
+              "live": true, 
+              "id": "xd058e3d1ce69ad2e"
+            }, 
+            {
+              "sha": "afc8c0a586568de54b0710526829ae6cfae51327", 
+              "live": true, 
+              "id": "x5e1ef92e18799ce6"
+            }, 
+            {
+              "sha": "1f31009fc289b74c6f89dcf020090cd57118e3cb", 
+              "live": true, 
+              "id": "xeef50722fe999a82"
+            }, 
+            {
+              "sha": "0abcb44626df2e33074b2c818ad18eaa41fdc5e0", 
+              "live": true, 
+              "id": "xba92613e171f4ddb"
+            }, 
+            {
+              "sha": "98efcec04c55cd50f99baeba5f67417ca981727e", 
+              "live": true, 
+              "id": "x0b659d6fda20eca2"
+            }, 
+            {
+              "sha": "65af47e28551de9efa2f9e3990de1c8ecaed1b02", 
+              "live": true, 
+              "id": "xa108f13708656421"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "1. y-intercept"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "58efaf95ecf98090d4bcc493882d3c91b3e1cbaf", 
+              "live": true, 
+              "id": "x198f42c81fa65066"
+            }, 
+            {
+              "sha": "15f8f3e6e1ab0bd011da28f796c191dc359605dd", 
+              "live": true, 
+              "id": "xc7db2c9879f44ef2"
+            }, 
+            {
+              "sha": "cc826a68f0cf1640d696aebed5c9600df1ba109a", 
+              "live": true, 
+              "id": "x38e0a024f904420d"
+            }, 
+            {
+              "sha": "7e8c58a753e01dc92ca0bb5d3b18edc959fa63dc", 
+              "live": true, 
+              "id": "x48b2e4349c175df6"
+            }, 
+            {
+              "sha": "f5a9761a6220db2d34cd26d8c100d9ce744cb65c", 
+              "live": true, 
+              "id": "x1294a49a4c392269"
+            }, 
+            {
+              "sha": "e0b0c11dfdf6c507591623aab473cff33c1f9454", 
+              "live": true, 
+              "id": "x2f604d6515ca6ea0"
+            }, 
+            {
+              "sha": "5ab4032335f292c3d9026b529c5b56c37e79511f", 
+              "live": true, 
+              "id": "xc032aee362e2967a"
+            }, 
+            {
+              "sha": "be4f31a11703229dd778e310f53977dc69921a50", 
+              "live": true, 
+              "id": "x8a564a890d13b61b"
+            }, 
+            {
+              "sha": "637077087e0cb59ca5d986b50369cffeadc04786", 
+              "live": true, 
+              "id": "x58c77c16e1cd9dec"
+            }, 
+            {
+              "sha": "d97bcabe366d016a55dfc23aecd1dba1397b9ea4", 
+              "live": true, 
+              "id": "xe7baa0c12b5b3bb4"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "2. Vertex"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "cf21959c1934b42f0b9e6aad299e39b483817e91", 
+              "live": true, 
+              "id": "x56d7c5aa75dd276f"
+            }, 
+            {
+              "sha": "edbfdd48bfa6ce5343721e7e66e837df3ade1463", 
+              "live": true, 
+              "id": "x95e5aafe464e849f"
+            }, 
+            {
+              "sha": "7872a8dda52afc6477fb4bac617278caf8dc47b0", 
+              "live": true, 
+              "id": "xbce3303b5aad15eb"
+            }, 
+            {
+              "sha": "ff4c5f80671cb61948bf56b9e33d36e8501f26b4", 
+              "live": true, 
+              "id": "xead4d041bbd3584d"
+            }, 
+            {
+              "sha": "cc4435d929576b3f0a16e6ea0f985d396c3713e0", 
+              "live": true, 
+              "id": "xdc6213d7938043f0"
+            }, 
+            {
+              "sha": "2e6102f7fd4193f6b4579c66a70791e974b0e9f1", 
+              "live": true, 
+              "id": "x3a1abd4739f8b9a3"
+            }, 
+            {
+              "sha": "d535f84472a93f2b4c2179dcdbe0741eea44a657", 
+              "live": true, 
+              "id": "xb8f2c7f73bc6a51c"
+            }, 
+            {
+              "sha": "cd848d534e27ce9b1ebbd8cd5a87c38918d53912", 
+              "live": true, 
+              "id": "x2614b3c09f588a98"
+            }, 
+            {
+              "sha": "6dce019b3f560410563bf742a3117d4d5df15e86", 
+              "live": true, 
+              "id": "x07e85204880367d3"
+            }, 
+            {
+              "sha": "0bf111ca057ec0c4c8c1d78a462ef9d8ecd25d61", 
+              "live": true, 
+              "id": "x8804afe924ee6228"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "3. Zeros"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "math", 
+              "id": "x7a488390"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "algebra", 
+              "id": "xcf876fe7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "quadratics", 
+              "id": "x46068850"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "features-of-quadratic-functions", 
+              "id": "xb9d7cf57"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "identifying-and-using-quadratic-forms", 
+              "id": "xb0bc7249"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [
+        "x96c7edd8", 
+        "26996"
+      ], 
+      "tutorial_only": false, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeGIwYmM3MjQ5DA", 
+      "current_revision_key": "aa05b70a17b81152d1f528aa3e5216983d87422e", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "identifying-and-using-quadratic-forms", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [
+        "solving_quadratics_by_factoring_2", 
+        "quadratic_equation", 
+        "completing_the_square_2"
+      ], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Identify and use the different forms of quadratic functions", 
+      "key_id": "xb0bc7249", 
+      "content_id": "xb0bc7249", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "1.1 m(x), x-int: (3,9), y-int: -54 ", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"The function $m(x)$ is shown below in three equivalent forms.  \\n\\n**Choose the form that most easily reveals the $y$-intercept of the graph $y=m(x)$.**\\n\\n[[\u2603 radio 1]]\\n\\n**What is the $y$-intercept of $m(x)$ ?**\\n\\n$y$-intercept $=(0,$ [[\u2603 numeric-input 1]]$)$\",\"images\":{},\"widgets\":{\"radio 1\":{\"type\":\"radio\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"$m(x)=-2x^2+24x-54$\",\"correct\":true},{\"content\":\"$m(x)=-2(x-3)(x-9)$\",\"correct\":false},{\"isNoneOfTheAbove\":false,\"content\":\"$m(x)=-2(x-6)^2+18$\",\"correct\":false}],\"randomize\":true,\"multipleSelect\":false,\"displayCount\":null,\"hasNoneOfTheAbove\":false,\"onePerLine\":true,\"deselectEnabled\":false},\"version\":{\"major\":1,\"minor\":0}},\"numeric-input 1\":{\"type\":\"numeric-input\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"answers\":[{\"value\":-54,\"status\":\"correct\",\"message\":\"\",\"simplify\":\"required\",\"strict\":false,\"maxError\":null}],\"size\":\"small\",\"coefficient\":false,\"labelText\":\"\"},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":true,\"periodicTable\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"The *$y$-intercept* of the graph $y=m(x)$ is the $y$-value of the point at which this graph crosses the $y$-axis.  Since all points on the $y$-axis have an $x$-value of $\\\\redD{0}$, we can find the $y$-intercept by calculating $m(\\\\redD{0})$. \\n\\nThe quadratic function $m(x)$ is given in three different forms:\\n\\n>$\\\\begin{align}m(x)=-2x^2+24x-54&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Standard Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Factored Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-6)^2+18&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Vertex Form}\\\\\\\\\\\\\\\\\\n\\\\end{align}$\\n\\nWhich form *most easily* allows us to calculate $m(\\\\redD{0})$ ? \",\"images\":{},\"widgets\":{}},{\"content\":\"The *standard form* of the function *most easily* allows us to calculate $m({0})$:\\n\\n>$m(\\\\redD{0})=-2(\\\\redD{0})^2+24(\\\\redD{0})-54=-54$\\n\\n**We can conclude that the $y$-intercept is $(0,-54)$**, as shown below: \\n\\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/12b0f67fbf8ff27b4aed0a1f474c7fb944b7d50e)\\n\\nIn general, for any quadratic function written in standard form $f(x)=ax^2+bx\\\\greenD{+c}$, we can immediately conclude that the $y$-intercept is $(0,\\\\greenD{c})$.\",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/12b0f67fbf8ff27b4aed0a1f474c7fb944b7d50e\":{\"width\":425,\"height\":425}},\"widgets\":{}},{\"content\":\"**In conclusion:**\\n\\n* **The standard form $m(x)=-2x^2+24x-54$ most easily  reveals the $y$-intercept of the graph $y=m(x)$**. [[\u2603 explanation 1]]\\n\\n* **The $y$-intercept of $m(x)$ is $(0,-54)$ **.\",\"images\":{},\"widgets\":{\"explanation 1\":{\"type\":\"explanation\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"showPrompt\":\"What about the other forms?\",\"hidePrompt\":\"Got it, thanks!\",\"explanation\":\"We could also calculate $m(\\\\redD{0})$ using the other two forms:\\n\\n >$m(\\\\redD{0})=-2(\\\\redD{0}-3)(\\\\redD{0}-9)=-2(-3)(-9)=-54$\\n\\n>$m(\\\\redD{0})=-2(\\\\redD{0}-6)^2+18=-2(-6)^2+18=-54$\\n\\nHowever, both of these calculations require multiple steps. \\n\\nTo summarize, the $y$-intercept $(0,-54)$ is not *immediately* visible in either of these forms, whereas it *is* immediately  visible in standard form.  \"},\"version\":{\"major\":0,\"minor\":0}}}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": 3, 
+      "author_names": [
+        "Michael Thoms"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "163f2c92aa598b921c36cc658d6cf4bc6c38113a", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "The *vertex* of the graph $y=m(x)$ is the only point on the graph that is also on the axis of symmetry. The vertex is always either a maximum (if the parabola opens up) or a minimum (if the parabola opens down).\n\nThe quadratic function $m(x)$ is given in three different forms:\n\n>$\\begin{align}m(x)=-2x^2+24x-54&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Standard Form}\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Factored Form}\\\\\\\\\nm(x)=-2(x-6)^2+18&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Vertex Form}\\\\\\\\\n\\end{align}$\n\nWhich form *most easily* allows us to find the vertex? ", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "As the name suggests, **the *vertex form* of the function most easily allows us to find the vertex.**\n\nIn general, for any quadratic function written in vertex form $f(x)=a(x-\\redD{h})^2+\\greenD{k}$, we can conclude that the vertex is the point $(\\redD{h},\\greenD{k})$.\n\n**We can conclude that the vertex of the graph of $m(x)=-2(x-\\redD{6})^2+\\greenD{18}$ is the point $(\\redD{6},\\greenD{18})$.** ", 
+          "images": {
+            "web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa": {
+              "width": 425, 
+              "height": 425
+            }
+          }, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The graph of $y=m(x)$ is shown below:\n\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa)\n\n**This vertex is a *maximum***, since there is no other point on the parabola that is higher. [[\u2603 explanation 2]]", 
+          "images": {
+            "web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa": {
+              "width": 425, 
+              "height": 425
+            }
+          }, 
+          "widgets": {
+            "explanation 2": {
+              "version": {
+                "major": 0, 
+                "minor": 0
+              }, 
+              "type": "explanation", 
+              "graded": true, 
+              "alignment": "default", 
+              "options": {
+                "hidePrompt": "Got it, thanks!", 
+                "explanation": "For any quadratic function written in vertex form $f(x)=\\blueD{a}(x-h)^2+k$, the value of $\\blueD{a}$ determines whether the graph of the parabola has a maximum or a minimum:\n\n* If $\\blueD{a}>0$, then the parabola opens up and the vertex is a minimum.\n\n* If $\\blueD{a}<0$, then the parabola opens down and the vertex is a maximum.\n\nIn this case, $m(x)=\\blueD{-2}(x-6)^2+18$. Since $\\blueD{-2}<0$, we can conclude that the vertex must be a maximum. The graph supports this conclusion. ", 
+                "showPrompt": "How could we tell this without graphing?"
+              }
+            }
+          }
+        }, 
+        {
+          "content": "**In conclusion:**\n\n* **The vertex form $m(x)=-2(x-6)^2+18$ most easily reveals the vertex of the graph $y=m(x)$.** [[\u2603 explanation 1]]\n\n* **The vertex of $y=m(x)$ is the point $(6,18)$**.\n\n* **The vertex is a maximum**.\n\n", 
+          "images": {}, 
+          "widgets": {
+            "explanation 1": {
+              "version": {
+                "major": 0, 
+                "minor": 0
+              }, 
+              "type": "explanation", 
+              "graded": true, 
+              "alignment": "default", 
+              "options": {
+                "hidePrompt": "Got it, thanks!", 
+                "explanation": "Let's see what happens when we try to use the other two forms to find the vertex.\n\n* We can use the *standard form* of the function by finding the axis of symmetry $(x=-\\dfrac{\\redD{b}}{2\\blueD{a}})$:\n\n >$m(x)=\\blueD{-2}x^2\\redD{+24}x\\greenD{-54}$\n\n>$x=-\\dfrac{\\redD{24}}{2(\\blueD{-2})}=6$\n\nSince the vertex lies on the axis of symmetry, we can conclude that the $x$-value of the vertex is $x=6$, and calculate the $y$-value by finding $m(6)$:\n\n>$m(6)=-2(6)^2+24(6)-54=18$\n\nWe can conclude that the vertex is $(6,18)$, but only after several calculations!\n\n* We can use the *factored form* of the function $m(x)=-2(x-3)(x-9)$ in order to find the zeros $x=3$ and $x=9$. Since parabolas are symmetric about the vertex, we know that the $x$-coordinate of the vertex lies directly in between these two values, at $x=\\dfrac{3+9}{2}=6$. As before, we can now see that the $y$-coordinate is $m(6)=18$.\n\nAgain, we can conclude that $(6,18)$ is the vertex, but only after several calculations! \n\nTo summarize, the vertex is not *immediately* visible in either of these forms, whereas it *is* immediately visible in vertex form.  ", 
+                "showPrompt": "What about the other forms?"
+              }
+            }
+          }
+        }
+      ], 
+      "question": {
+        "content": "The function $m(x)$ is shown below in three equivalent forms.  \n\n**Choose the form that most easily reveals the vertex of the graph $y=m(x)$.**\n\n[[\u2603 radio 1]]\n\n**What is the vertex of the graph $y=m(x)$ ?**\n\nVertex = $($ [[\u2603 numeric-input 1]] $,$ [[\u2603 numeric-input 2]] $)$\n\n**Is the vertex a maximum or a minimum?**\n\n[[\u2603 radio 2]]\n", 
+        "images": {}, 
+        "widgets": {
+          "radio 2": {
+            "version": {
+              "major": 1, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "onePerLine": false, 
+              "displayCount": null, 
+              "choices": [
+                {
+                  "content": "Maximum", 
+                  "correct": true
+                }, 
+                {
+                  "content": "Minimum", 
+                  "correct": false
+                }
+              ], 
+              "hasNoneOfTheAbove": false, 
+              "multipleSelect": false, 
+              "randomize": false, 
+              "deselectEnabled": false
+            }
+          }, 
+          "numeric-input 2": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "numeric-input", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "coefficient": false, 
+              "labelText": "", 
+              "answers": [
+                {
+                  "status": "correct", 
+                  "maxError": null, 
+                  "strict": false, 
+                  "value": 18, 
+                  "simplify": "required", 
+                  "message": ""
+                }
+              ], 
+              "size": "small"
+            }
+          }, 
+          "numeric-input 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "numeric-input", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "coefficient": false, 
+              "labelText": "", 
+              "answers": [
+                {
+                  "status": "correct", 
+                  "maxError": null, 
+                  "strict": false, 
+                  "value": 6, 
+                  "simplify": "required", 
+                  "message": ""
+                }
+              ], 
+              "size": "small"
+            }
+          }, 
+          "radio 1": {
+            "version": {
+              "major": 1, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "onePerLine": true, 
+              "displayCount": null, 
+              "choices": [
+                {
+                  "content": "$m(x)=-2x^2+24x-54$", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$m(x)=-2(x-3)(x-9)$", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$m(x)=-2(x-6)^2+18$", 
+                  "isNoneOfTheAbove": false, 
+                  "correct": true
+                }
+              ], 
+              "hasNoneOfTheAbove": false, 
+              "multipleSelect": false, 
+              "randomize": true, 
+              "deselectEnabled": false
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "periodicTable": false, 
+        "calculator": true, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "radio", 
+      "numeric-input"
+    ], 
+    "assessment_item_id": "x198f42c81fa65066", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Tomer Gal", 
+      "v_position": -1, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXIXCxIIVXNlckRhdGEiCVRvbWVyIEdhbAw", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/8dc9ec091ff25b949ba80f1b2d28131c.png", 
+          "serving_url": "http://lh3.googleusercontent.com/vBAL2RDOz8OsVLxhzR7-Zidfl1sDAhx3nGBlfCbXxrkxzpMNdoqrD90COLnug016r0e5sXlISosf9E8OZw3pJAVw"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 80, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (&quot;roots&quot;) of the function, and the vertex of the parabola.", 
+      "description": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (\"roots\") of the function, and the vertex of the parabola.", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "163f2c92aa598b921c36cc658d6cf4bc6c38113a", 
+              "live": true, 
+              "id": "x022a8df247f388b2"
+            }, 
+            {
+              "sha": "907de5741947313e7054c9d879ab29f2267d43cc", 
+              "live": true, 
+              "id": "xe371d7c01bdab649"
+            }, 
+            {
+              "sha": "5bbb29c34a1ca076dad35aba2189defa12e6e930", 
+              "live": true, 
+              "id": "x0653cd591a26baa7"
+            }, 
+            {
+              "sha": "d804b81c06a9d387cf4de920892fe049e30a7b72", 
+              "live": true, 
+              "id": "x0584f0c94c11cda3"
+            }, 
+            {
+              "sha": "99ad9e467b7907813b2cfbe15560e6b5ad08f9d3", 
+              "live": true, 
+              "id": "xd058e3d1ce69ad2e"
+            }, 
+            {
+              "sha": "afc8c0a586568de54b0710526829ae6cfae51327", 
+              "live": true, 
+              "id": "x5e1ef92e18799ce6"
+            }, 
+            {
+              "sha": "1f31009fc289b74c6f89dcf020090cd57118e3cb", 
+              "live": true, 
+              "id": "xeef50722fe999a82"
+            }, 
+            {
+              "sha": "0abcb44626df2e33074b2c818ad18eaa41fdc5e0", 
+              "live": true, 
+              "id": "xba92613e171f4ddb"
+            }, 
+            {
+              "sha": "98efcec04c55cd50f99baeba5f67417ca981727e", 
+              "live": true, 
+              "id": "x0b659d6fda20eca2"
+            }, 
+            {
+              "sha": "65af47e28551de9efa2f9e3990de1c8ecaed1b02", 
+              "live": true, 
+              "id": "xa108f13708656421"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "1. y-intercept"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "58efaf95ecf98090d4bcc493882d3c91b3e1cbaf", 
+              "live": true, 
+              "id": "x198f42c81fa65066"
+            }, 
+            {
+              "sha": "15f8f3e6e1ab0bd011da28f796c191dc359605dd", 
+              "live": true, 
+              "id": "xc7db2c9879f44ef2"
+            }, 
+            {
+              "sha": "cc826a68f0cf1640d696aebed5c9600df1ba109a", 
+              "live": true, 
+              "id": "x38e0a024f904420d"
+            }, 
+            {
+              "sha": "7e8c58a753e01dc92ca0bb5d3b18edc959fa63dc", 
+              "live": true, 
+              "id": "x48b2e4349c175df6"
+            }, 
+            {
+              "sha": "f5a9761a6220db2d34cd26d8c100d9ce744cb65c", 
+              "live": true, 
+              "id": "x1294a49a4c392269"
+            }, 
+            {
+              "sha": "e0b0c11dfdf6c507591623aab473cff33c1f9454", 
+              "live": true, 
+              "id": "x2f604d6515ca6ea0"
+            }, 
+            {
+              "sha": "5ab4032335f292c3d9026b529c5b56c37e79511f", 
+              "live": true, 
+              "id": "xc032aee362e2967a"
+            }, 
+            {
+              "sha": "be4f31a11703229dd778e310f53977dc69921a50", 
+              "live": true, 
+              "id": "x8a564a890d13b61b"
+            }, 
+            {
+              "sha": "637077087e0cb59ca5d986b50369cffeadc04786", 
+              "live": true, 
+              "id": "x58c77c16e1cd9dec"
+            }, 
+            {
+              "sha": "d97bcabe366d016a55dfc23aecd1dba1397b9ea4", 
+              "live": true, 
+              "id": "xe7baa0c12b5b3bb4"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "2. Vertex"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "cf21959c1934b42f0b9e6aad299e39b483817e91", 
+              "live": true, 
+              "id": "x56d7c5aa75dd276f"
+            }, 
+            {
+              "sha": "edbfdd48bfa6ce5343721e7e66e837df3ade1463", 
+              "live": true, 
+              "id": "x95e5aafe464e849f"
+            }, 
+            {
+              "sha": "7872a8dda52afc6477fb4bac617278caf8dc47b0", 
+              "live": true, 
+              "id": "xbce3303b5aad15eb"
+            }, 
+            {
+              "sha": "ff4c5f80671cb61948bf56b9e33d36e8501f26b4", 
+              "live": true, 
+              "id": "xead4d041bbd3584d"
+            }, 
+            {
+              "sha": "cc4435d929576b3f0a16e6ea0f985d396c3713e0", 
+              "live": true, 
+              "id": "xdc6213d7938043f0"
+            }, 
+            {
+              "sha": "2e6102f7fd4193f6b4579c66a70791e974b0e9f1", 
+              "live": true, 
+              "id": "x3a1abd4739f8b9a3"
+            }, 
+            {
+              "sha": "d535f84472a93f2b4c2179dcdbe0741eea44a657", 
+              "live": true, 
+              "id": "xb8f2c7f73bc6a51c"
+            }, 
+            {
+              "sha": "cd848d534e27ce9b1ebbd8cd5a87c38918d53912", 
+              "live": true, 
+              "id": "x2614b3c09f588a98"
+            }, 
+            {
+              "sha": "6dce019b3f560410563bf742a3117d4d5df15e86", 
+              "live": true, 
+              "id": "x07e85204880367d3"
+            }, 
+            {
+              "sha": "0bf111ca057ec0c4c8c1d78a462ef9d8ecd25d61", 
+              "live": true, 
+              "id": "x8804afe924ee6228"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "3. Zeros"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "math", 
+              "id": "x7a488390"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "algebra", 
+              "id": "xcf876fe7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "quadratics", 
+              "id": "x46068850"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "features-of-quadratic-functions", 
+              "id": "xb9d7cf57"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "identifying-and-using-quadratic-forms", 
+              "id": "xb0bc7249"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [
+        "x96c7edd8", 
+        "26996"
+      ], 
+      "tutorial_only": false, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeGIwYmM3MjQ5DA", 
+      "current_revision_key": "aa05b70a17b81152d1f528aa3e5216983d87422e", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "identifying-and-using-quadratic-forms", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [
+        "solving_quadratics_by_factoring_2", 
+        "quadratic_equation", 
+        "completing_the_square_2"
+      ], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Identify and use the different forms of quadratic functions", 
+      "key_id": "xb0bc7249", 
+      "content_id": "xb0bc7249", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "2.1 m(x), x-int: (3,9), y-int: -54 ", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"The function $m(x)$ is shown below in three equivalent forms.  \\n\\n**Choose the form that most easily reveals the vertex of the graph $y=m(x)$.**\\n\\n[[\u2603 radio 1]]\\n\\n**What is the vertex of the graph $y=m(x)$ ?**\\n\\nVertex = $($ [[\u2603 numeric-input 1]] $,$ [[\u2603 numeric-input 2]] $)$\\n\\n**Is the vertex a maximum or a minimum?**\\n\\n[[\u2603 radio 2]]\\n\",\"images\":{},\"widgets\":{\"radio 1\":{\"type\":\"radio\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"$m(x)=-2x^2+24x-54$\",\"correct\":false},{\"content\":\"$m(x)=-2(x-3)(x-9)$\",\"correct\":false},{\"isNoneOfTheAbove\":false,\"content\":\"$m(x)=-2(x-6)^2+18$\",\"correct\":true}],\"randomize\":true,\"multipleSelect\":false,\"displayCount\":null,\"hasNoneOfTheAbove\":false,\"onePerLine\":true,\"deselectEnabled\":false},\"version\":{\"major\":1,\"minor\":0}},\"numeric-input 1\":{\"type\":\"numeric-input\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"answers\":[{\"value\":6,\"status\":\"correct\",\"message\":\"\",\"simplify\":\"required\",\"strict\":false,\"maxError\":null}],\"size\":\"small\",\"coefficient\":false,\"labelText\":\"\"},\"version\":{\"major\":0,\"minor\":0}},\"numeric-input 2\":{\"type\":\"numeric-input\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"answers\":[{\"value\":18,\"status\":\"correct\",\"message\":\"\",\"simplify\":\"required\",\"strict\":false,\"maxError\":null}],\"size\":\"small\",\"coefficient\":false,\"labelText\":\"\"},\"version\":{\"major\":0,\"minor\":0}},\"radio 2\":{\"type\":\"radio\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"Maximum\",\"correct\":true},{\"content\":\"Minimum\",\"correct\":false}],\"randomize\":false,\"multipleSelect\":false,\"displayCount\":null,\"hasNoneOfTheAbove\":false,\"onePerLine\":false,\"deselectEnabled\":false},\"version\":{\"major\":1,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":true,\"periodicTable\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"The *vertex* of the graph $y=m(x)$ is the only point on the graph that is also on the axis of symmetry. The vertex is always either a maximum (if the parabola opens up) or a minimum (if the parabola opens down).\\n\\nThe quadratic function $m(x)$ is given in three different forms:\\n\\n>$\\\\begin{align}m(x)=-2x^2+24x-54&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Standard Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Factored Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-6)^2+18&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Vertex Form}\\\\\\\\\\\\\\\\\\n\\\\end{align}$\\n\\nWhich form *most easily* allows us to find the vertex? \",\"images\":{},\"widgets\":{}},{\"content\":\"As the name suggests, **the *vertex form* of the function most easily allows us to find the vertex.**\\n\\nIn general, for any quadratic function written in vertex form $f(x)=a(x-\\\\redD{h})^2+\\\\greenD{k}$, we can conclude that the vertex is the point $(\\\\redD{h},\\\\greenD{k})$.\\n\\n**We can conclude that the vertex of the graph of $m(x)=-2(x-\\\\redD{6})^2+\\\\greenD{18}$ is the point $(\\\\redD{6},\\\\greenD{18})$.** \",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa\":{\"width\":425,\"height\":425}},\"widgets\":{}},{\"content\":\"The graph of $y=m(x)$ is shown below:\\n\\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa)\\n\\n**This vertex is a *maximum***, since there is no other point on the parabola that is higher. [[\u2603 explanation 2]]\",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d49140169e7479e99bec46d1fe90cd1abac04fa\":{\"width\":425,\"height\":425}},\"widgets\":{\"explanation 2\":{\"type\":\"explanation\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"showPrompt\":\"How could we tell this without graphing?\",\"hidePrompt\":\"Got it, thanks!\",\"explanation\":\"For any quadratic function written in vertex form $f(x)=\\\\blueD{a}(x-h)^2+k$, the value of $\\\\blueD{a}$ determines whether the graph of the parabola has a maximum or a minimum:\\n\\n* If $\\\\blueD{a}>0$, then the parabola opens up and the vertex is a minimum.\\n\\n* If $\\\\blueD{a}<0$, then the parabola opens down and the vertex is a maximum.\\n\\nIn this case, $m(x)=\\\\blueD{-2}(x-6)^2+18$. Since $\\\\blueD{-2}<0$, we can conclude that the vertex must be a maximum. The graph supports this conclusion. \"},\"version\":{\"major\":0,\"minor\":0}}}},{\"content\":\"**In conclusion:**\\n\\n* **The vertex form $m(x)=-2(x-6)^2+18$ most easily reveals the vertex of the graph $y=m(x)$.** [[\u2603 explanation 1]]\\n\\n* **The vertex of $y=m(x)$ is the point $(6,18)$**.\\n\\n* **The vertex is a maximum**.\\n\\n\",\"images\":{},\"widgets\":{\"explanation 1\":{\"type\":\"explanation\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"showPrompt\":\"What about the other forms?\",\"hidePrompt\":\"Got it, thanks!\",\"explanation\":\"Let's see what happens when we try to use the other two forms to find the vertex.\\n\\n* We can use the *standard form* of the function by finding the axis of symmetry $(x=-\\\\dfrac{\\\\redD{b}}{2\\\\blueD{a}})$:\\n\\n >$m(x)=\\\\blueD{-2}x^2\\\\redD{+24}x\\\\greenD{-54}$\\n\\n>$x=-\\\\dfrac{\\\\redD{24}}{2(\\\\blueD{-2})}=6$\\n\\nSince the vertex lies on the axis of symmetry, we can conclude that the $x$-value of the vertex is $x=6$, and calculate the $y$-value by finding $m(6)$:\\n\\n>$m(6)=-2(6)^2+24(6)-54=18$\\n\\nWe can conclude that the vertex is $(6,18)$, but only after several calculations!\\n\\n* We can use the *factored form* of the function $m(x)=-2(x-3)(x-9)$ in order to find the zeros $x=3$ and $x=9$. Since parabolas are symmetric about the vertex, we know that the $x$-coordinate of the vertex lies directly in between these two values, at $x=\\\\dfrac{3+9}{2}=6$. As before, we can now see that the $y$-coordinate is $m(6)=18$.\\n\\nAgain, we can conclude that $(6,18)$ is the vertex, but only after several calculations! \\n\\nTo summarize, the vertex is not *immediately* visible in either of these forms, whereas it *is* immediately visible in vertex form.  \"},\"version\":{\"major\":0,\"minor\":0}}}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": 3, 
+      "author_names": [
+        "Michael Thoms"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "58efaf95ecf98090d4bcc493882d3c91b3e1cbaf", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "The *zeros* (or \"roots\") of the graph $y=m(x)$ are the $x$-values of the points where the graph crosses the $x$-axis.  Since all points on the $x$-axis have a $y$-value of $\\greenD{0}$, we can find the zeros by solving the equation $m(\\redD{x})=\\greenD{0}$. \n\nThe quadratic function $m(x)$ is given in three different forms:\n\n>$\\begin{align}m(x)=-2x^2+24x-54&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Standard Form}\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Factored Form}\\\\\\\\\nm(x)=-2(x-6)^2+18&\\ \\ \\ \\ \\ \\ \\ \\ \\text{Vertex Form}\\\\\\\\\n\\end{align}$\n\nWhich form *most easily* allows us to solve the equation  $m(\\redD{x})=\\greenD{0}$ ? ", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "**The *factored form* of the function *most easily* allows us to solve the equation $m(\\redD{x})=\\greenD{0}$**:\n\n>$\\greenD{0}=-2(\\redD{x}-3)(\\redD{x}-9)$\n\n>$\\redD{x}-3=\\greenD{0}\\ \\ \\ $ or $\\ \\ \\ \\redD{x}-9=\\greenD{0} $\n\n>$\\redD{x}=3\\ \\ \\ $ or $\\ \\ \\ \\redD{x}=9$ \n\n**We can conclude that the zeros, or \"roots\", of the graph are $x=3$ and $x=9$**.", 
+          "images": {
+            "web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707": {
+              "width": 425, 
+              "height": 425
+            }
+          }, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The graph of $y=m(x)$ is shown below:\n\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707)\n\nIn general, for any quadratic function written in factored form $f(x)=a(x-\\redD{p})(x-\\redD{q})$, we can immediately conclude that the zeros are $x=\\redD{p}$ and $x=\\redD{q}$.\n\n", 
+          "images": {
+            "web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707": {
+              "width": 425, 
+              "height": 425
+            }
+          }, 
+          "widgets": {}
+        }, 
+        {
+          "content": "**In conclusion:**\n\n* **The factored form $m(x)=-2(x-3)(x-9)$ most easily  reveals the zeros of the graph $y=m(x)$**. [[\u2603 explanation 1]]\n\n* **The zeros of $m(x)$ are $x=3$ and $x=9$**. ", 
+          "images": {}, 
+          "widgets": {
+            "explanation 1": {
+              "version": {
+                "major": 0, 
+                "minor": 0
+              }, 
+              "type": "explanation", 
+              "graded": true, 
+              "alignment": "default", 
+              "options": {
+                "hidePrompt": "Got it, thanks!", 
+                "explanation": "Let's see what happens when we try to use the other two forms to solve $m(x)=0$.\n\n* If we used the *standard form* of the function, we could solve this equation by either using the quadratic formula (which would require some calculation), or by factoring $-2x^2+24x-54$ as $-2(x-3)(x-9)$, which would give us the **factored** form!\n\n* If we used the *vertex form* of the function, we would write:\n\n >$0=-2(x-6)^2+18$\n\nWe could solve this equation by simplifying and then taking a square root:\n\n >$-18=-2(x-6)^2$\n\n >$9=(x-6)^2$\n\n >$\\sqrt{9}=\\sqrt{(x-6)^2}$\n\n >$\\pm3=x-6$\n\nIn either case, we would conclude that $x=3$ or $x=9$, but only after several calculations!\n\nTo summarize, the zeros *are not* immediately visible in either of these forms, whereas they *are* visible in factored form.  ", 
+                "showPrompt": "What about the other forms?"
+              }
+            }
+          }
+        }
+      ], 
+      "question": {
+        "content": "The function $m(x)$ is shown below in three equivalent forms.  \n\n**Choose the form that most easily reveals the zeros (or \"roots\")  of the function $m(x)$.**\n\n[[\u2603 radio 1]]\n\n**What is one of the zeros of $m(x)$?**\n\n$x$ = [[\u2603 numeric-input 1]]\n\n", 
+        "images": {}, 
+        "widgets": {
+          "numeric-input 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "numeric-input", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "coefficient": false, 
+              "labelText": "", 
+              "answers": [
+                {
+                  "status": "correct", 
+                  "maxError": null, 
+                  "strict": false, 
+                  "value": 3, 
+                  "simplify": "required", 
+                  "message": ""
+                }, 
+                {
+                  "status": "correct", 
+                  "maxError": null, 
+                  "strict": false, 
+                  "value": 9, 
+                  "simplify": "required", 
+                  "message": ""
+                }
+              ], 
+              "size": "normal"
+            }
+          }, 
+          "radio 1": {
+            "version": {
+              "major": 1, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "alignment": "default", 
+            "options": {
+              "onePerLine": true, 
+              "displayCount": null, 
+              "choices": [
+                {
+                  "content": "$m(x)=-2x^2+24x-54$", 
+                  "correct": false
+                }, 
+                {
+                  "content": "$m(x)=-2(x-3)(x-9)$", 
+                  "correct": true
+                }, 
+                {
+                  "content": "$m(x)=-2(x-6)^2+18$", 
+                  "isNoneOfTheAbove": false, 
+                  "correct": false
+                }
+              ], 
+              "hasNoneOfTheAbove": false, 
+              "multipleSelect": false, 
+              "randomize": true, 
+              "deselectEnabled": false
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "periodicTable": false, 
+        "calculator": true, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "radio", 
+      "numeric-input"
+    ], 
+    "assessment_item_id": "x56d7c5aa75dd276f", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Tomer Gal", 
+      "v_position": -1, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXIXCxIIVXNlckRhdGEiCVRvbWVyIEdhbAw", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/8dc9ec091ff25b949ba80f1b2d28131c.png", 
+          "serving_url": "http://lh3.googleusercontent.com/vBAL2RDOz8OsVLxhzR7-Zidfl1sDAhx3nGBlfCbXxrkxzpMNdoqrD90COLnug016r0e5sXlISosf9E8OZw3pJAVw"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 80, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (&quot;roots&quot;) of the function, and the vertex of the parabola.", 
+      "description": "Identify the form of a quadratic function that immediately reveals a given feature of that function. Features in question are the y-intercept of the graph, the zeroes (\"roots\") of the function, and the vertex of the parabola.", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "163f2c92aa598b921c36cc658d6cf4bc6c38113a", 
+              "live": true, 
+              "id": "x022a8df247f388b2"
+            }, 
+            {
+              "sha": "907de5741947313e7054c9d879ab29f2267d43cc", 
+              "live": true, 
+              "id": "xe371d7c01bdab649"
+            }, 
+            {
+              "sha": "5bbb29c34a1ca076dad35aba2189defa12e6e930", 
+              "live": true, 
+              "id": "x0653cd591a26baa7"
+            }, 
+            {
+              "sha": "d804b81c06a9d387cf4de920892fe049e30a7b72", 
+              "live": true, 
+              "id": "x0584f0c94c11cda3"
+            }, 
+            {
+              "sha": "99ad9e467b7907813b2cfbe15560e6b5ad08f9d3", 
+              "live": true, 
+              "id": "xd058e3d1ce69ad2e"
+            }, 
+            {
+              "sha": "afc8c0a586568de54b0710526829ae6cfae51327", 
+              "live": true, 
+              "id": "x5e1ef92e18799ce6"
+            }, 
+            {
+              "sha": "1f31009fc289b74c6f89dcf020090cd57118e3cb", 
+              "live": true, 
+              "id": "xeef50722fe999a82"
+            }, 
+            {
+              "sha": "0abcb44626df2e33074b2c818ad18eaa41fdc5e0", 
+              "live": true, 
+              "id": "xba92613e171f4ddb"
+            }, 
+            {
+              "sha": "98efcec04c55cd50f99baeba5f67417ca981727e", 
+              "live": true, 
+              "id": "x0b659d6fda20eca2"
+            }, 
+            {
+              "sha": "65af47e28551de9efa2f9e3990de1c8ecaed1b02", 
+              "live": true, 
+              "id": "xa108f13708656421"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "1. y-intercept"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "58efaf95ecf98090d4bcc493882d3c91b3e1cbaf", 
+              "live": true, 
+              "id": "x198f42c81fa65066"
+            }, 
+            {
+              "sha": "15f8f3e6e1ab0bd011da28f796c191dc359605dd", 
+              "live": true, 
+              "id": "xc7db2c9879f44ef2"
+            }, 
+            {
+              "sha": "cc826a68f0cf1640d696aebed5c9600df1ba109a", 
+              "live": true, 
+              "id": "x38e0a024f904420d"
+            }, 
+            {
+              "sha": "7e8c58a753e01dc92ca0bb5d3b18edc959fa63dc", 
+              "live": true, 
+              "id": "x48b2e4349c175df6"
+            }, 
+            {
+              "sha": "f5a9761a6220db2d34cd26d8c100d9ce744cb65c", 
+              "live": true, 
+              "id": "x1294a49a4c392269"
+            }, 
+            {
+              "sha": "e0b0c11dfdf6c507591623aab473cff33c1f9454", 
+              "live": true, 
+              "id": "x2f604d6515ca6ea0"
+            }, 
+            {
+              "sha": "5ab4032335f292c3d9026b529c5b56c37e79511f", 
+              "live": true, 
+              "id": "xc032aee362e2967a"
+            }, 
+            {
+              "sha": "be4f31a11703229dd778e310f53977dc69921a50", 
+              "live": true, 
+              "id": "x8a564a890d13b61b"
+            }, 
+            {
+              "sha": "637077087e0cb59ca5d986b50369cffeadc04786", 
+              "live": true, 
+              "id": "x58c77c16e1cd9dec"
+            }, 
+            {
+              "sha": "d97bcabe366d016a55dfc23aecd1dba1397b9ea4", 
+              "live": true, 
+              "id": "xe7baa0c12b5b3bb4"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "2. Vertex"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "cf21959c1934b42f0b9e6aad299e39b483817e91", 
+              "live": true, 
+              "id": "x56d7c5aa75dd276f"
+            }, 
+            {
+              "sha": "edbfdd48bfa6ce5343721e7e66e837df3ade1463", 
+              "live": true, 
+              "id": "x95e5aafe464e849f"
+            }, 
+            {
+              "sha": "7872a8dda52afc6477fb4bac617278caf8dc47b0", 
+              "live": true, 
+              "id": "xbce3303b5aad15eb"
+            }, 
+            {
+              "sha": "ff4c5f80671cb61948bf56b9e33d36e8501f26b4", 
+              "live": true, 
+              "id": "xead4d041bbd3584d"
+            }, 
+            {
+              "sha": "cc4435d929576b3f0a16e6ea0f985d396c3713e0", 
+              "live": true, 
+              "id": "xdc6213d7938043f0"
+            }, 
+            {
+              "sha": "2e6102f7fd4193f6b4579c66a70791e974b0e9f1", 
+              "live": true, 
+              "id": "x3a1abd4739f8b9a3"
+            }, 
+            {
+              "sha": "d535f84472a93f2b4c2179dcdbe0741eea44a657", 
+              "live": true, 
+              "id": "xb8f2c7f73bc6a51c"
+            }, 
+            {
+              "sha": "cd848d534e27ce9b1ebbd8cd5a87c38918d53912", 
+              "live": true, 
+              "id": "x2614b3c09f588a98"
+            }, 
+            {
+              "sha": "6dce019b3f560410563bf742a3117d4d5df15e86", 
+              "live": true, 
+              "id": "x07e85204880367d3"
+            }, 
+            {
+              "sha": "0bf111ca057ec0c4c8c1d78a462ef9d8ecd25d61", 
+              "live": true, 
+              "id": "x8804afe924ee6228"
+            }
+          ], 
+          "related_videos": [], 
+          "name": "3. Zeros"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "math", 
+              "id": "x7a488390"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "algebra", 
+              "id": "xcf876fe7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "quadratics", 
+              "id": "x46068850"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "features-of-quadratic-functions", 
+              "id": "xb9d7cf57"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "identifying-and-using-quadratic-forms", 
+              "id": "xb0bc7249"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [
+        "x96c7edd8", 
+        "26996"
+      ], 
+      "tutorial_only": false, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeGIwYmM3MjQ5DA", 
+      "current_revision_key": "aa05b70a17b81152d1f528aa3e5216983d87422e", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "identifying-and-using-quadratic-forms", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [
+        "solving_quadratics_by_factoring_2", 
+        "quadratic_equation", 
+        "completing_the_square_2"
+      ], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Identify and use the different forms of quadratic functions", 
+      "key_id": "xb0bc7249", 
+      "content_id": "xb0bc7249", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "3.1 m(x), x-int: (3,9), y-int: -54 ", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"The function $m(x)$ is shown below in three equivalent forms.  \\n\\n**Choose the form that most easily reveals the zeros (or \\\"roots\\\")  of the function $m(x)$.**\\n\\n[[\u2603 radio 1]]\\n\\n**What is one of the zeros of $m(x)$?**\\n\\n$x$ = [[\u2603 numeric-input 1]]\\n\\n\",\"images\":{},\"widgets\":{\"radio 1\":{\"type\":\"radio\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"$m(x)=-2x^2+24x-54$\",\"correct\":false},{\"content\":\"$m(x)=-2(x-3)(x-9)$\",\"correct\":true},{\"isNoneOfTheAbove\":false,\"content\":\"$m(x)=-2(x-6)^2+18$\",\"correct\":false}],\"randomize\":true,\"multipleSelect\":false,\"displayCount\":null,\"hasNoneOfTheAbove\":false,\"onePerLine\":true,\"deselectEnabled\":false},\"version\":{\"major\":1,\"minor\":0}},\"numeric-input 1\":{\"type\":\"numeric-input\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"answers\":[{\"value\":3,\"status\":\"correct\",\"message\":\"\",\"simplify\":\"required\",\"strict\":false,\"maxError\":null},{\"value\":9,\"status\":\"correct\",\"message\":\"\",\"simplify\":\"required\",\"strict\":false,\"maxError\":null}],\"size\":\"normal\",\"coefficient\":false,\"labelText\":\"\"},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":true,\"periodicTable\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"The *zeros* (or \\\"roots\\\") of the graph $y=m(x)$ are the $x$-values of the points where the graph crosses the $x$-axis.  Since all points on the $x$-axis have a $y$-value of $\\\\greenD{0}$, we can find the zeros by solving the equation $m(\\\\redD{x})=\\\\greenD{0}$. \\n\\nThe quadratic function $m(x)$ is given in three different forms:\\n\\n>$\\\\begin{align}m(x)=-2x^2+24x-54&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Standard Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-3)(x-9)&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Factored Form}\\\\\\\\\\\\\\\\\\nm(x)=-2(x-6)^2+18&\\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\ \\\\text{Vertex Form}\\\\\\\\\\\\\\\\\\n\\\\end{align}$\\n\\nWhich form *most easily* allows us to solve the equation  $m(\\\\redD{x})=\\\\greenD{0}$ ? \",\"images\":{},\"widgets\":{}},{\"content\":\"**The *factored form* of the function *most easily* allows us to solve the equation $m(\\\\redD{x})=\\\\greenD{0}$**:\\n\\n>$\\\\greenD{0}=-2(\\\\redD{x}-3)(\\\\redD{x}-9)$\\n\\n>$\\\\redD{x}-3=\\\\greenD{0}\\\\ \\\\ \\\\ $ or $\\\\ \\\\ \\\\ \\\\redD{x}-9=\\\\greenD{0} $\\n\\n>$\\\\redD{x}=3\\\\ \\\\ \\\\ $ or $\\\\ \\\\ \\\\ \\\\redD{x}=9$ \\n\\n**We can conclude that the zeros, or \\\"roots\\\", of the graph are $x=3$ and $x=9$**.\",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707\":{\"width\":425,\"height\":425}},\"widgets\":{}},{\"content\":\"The graph of $y=m(x)$ is shown below:\\n\\n![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707)\\n\\nIn general, for any quadratic function written in factored form $f(x)=a(x-\\\\redD{p})(x-\\\\redD{q})$, we can immediately conclude that the zeros are $x=\\\\redD{p}$ and $x=\\\\redD{q}$.\\n\\n\",\"images\":{\"web+graphie://ka-perseus-graphie.s3.amazonaws.com/8e2f28255156e3d56cdf6c55fcff1ff4e1ce3707\":{\"width\":425,\"height\":425}},\"widgets\":{}},{\"content\":\"**In conclusion:**\\n\\n* **The factored form $m(x)=-2(x-3)(x-9)$ most easily  reveals the zeros of the graph $y=m(x)$**. [[\u2603 explanation 1]]\\n\\n* **The zeros of $m(x)$ are $x=3$ and $x=9$**. \",\"images\":{},\"widgets\":{\"explanation 1\":{\"type\":\"explanation\",\"alignment\":\"default\",\"graded\":true,\"options\":{\"showPrompt\":\"What about the other forms?\",\"hidePrompt\":\"Got it, thanks!\",\"explanation\":\"Let's see what happens when we try to use the other two forms to solve $m(x)=0$.\\n\\n* If we used the *standard form* of the function, we could solve this equation by either using the quadratic formula (which would require some calculation), or by factoring $-2x^2+24x-54$ as $-2(x-3)(x-9)$, which would give us the **factored** form!\\n\\n* If we used the *vertex form* of the function, we would write:\\n\\n >$0=-2(x-6)^2+18$\\n\\nWe could solve this equation by simplifying and then taking a square root:\\n\\n >$-18=-2(x-6)^2$\\n\\n >$9=(x-6)^2$\\n\\n >$\\\\sqrt{9}=\\\\sqrt{(x-6)^2}$\\n\\n >$\\\\pm3=x-6$\\n\\nIn either case, we would conclude that $x=3$ or $x=9$, but only after several calculations!\\n\\nTo summarize, the zeros *are not* immediately visible in either of these forms, whereas they *are* visible in factored form.  \"},\"version\":{\"major\":0,\"minor\":0}}}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": 3, 
+      "author_names": [
+        "Michael Thoms"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "cf21959c1934b42f0b9e6aad299e39b483817e91", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "Rumination is a negative coping strategy.", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The question asks you to evaluate the effect of a highly utilized negative coping mechanism on laparoscopic procedure errors.", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The figure offers evidence that strong implementation of negative coping mechanisms correlates with high number of errors.", 
+          "images": {}, 
+          "widgets": {}
+        }
+      ], 
+      "question": {
+        "content": "Emotional stress can be empowering, and can facilitate improved performance as concentration, focus, and efficiency of action are enhanced. This phenomenon is most evident in the classic \u201cfight or flight\u201d response to perceived threats. However, there comes a breaking point, which excessive stress can result in compromised performance. The field of surgery beckons individuals who thrive in stressful environments, who can experience states of heightened awareness and enjoy the challenging nature of the job. However, long term success in the field requires consistent use of positive coping mechanisms for stress. \n\nA study was conducted to assess the effect of different coping mechanisms on laparoscopic surgical performance.  Twenty postgraduate year $2$ residents were selected and offered a questionnaire assessing coping mechanism employed throughout medical school and the internship year. Results were categorized into positive and negative coping mechanism categories. The extent to which these mechanisms were utilized was also evaluated on a scale of $5$ to $15$. Positive coping categories included: minimization, distraction, situation control, substitute gratification, reaction control, and positive self-instructions. Negative coping mechanisms included: escape, rumination, resignation, self-blame, and avoidance. Following completion of the survey, the residents were observed using a simulated laparoscopic surgical training device. After being oriented to the training environment, the residents completed a \u201cdifficult\u201d setting, including difficult manipulation and unexpected bleeding of a major vessel.\n\nMeasured performance outcomes including time to completion, errors, and economy of maneuvers were recorded and correlated to the associated individuals coping mechanism evaluation. The results for negative coping strategies and associated errors are documented in Figure $1$, while the results for positive coping strategies and associated errors can be found in Figure $2$.\n\nFigure $1$\n![](https://ka-perseus-images.s3.amazonaws.com/5f3d7d27a3a93f7a1008aaba2927d865688a272c.png)\n\n\nFigure $2$\n![](https://ka-perseus-images.s3.amazonaws.com/c73247664b7621442f2fec967ae98a63598f3f86.png)\n\n**Based on the information in the passage and the associated figures, high utilization of rumination as a coping strategy would correlate with an estimated how many laparoscopic errors? **\n[[\u2603 radio 1]]", 
+        "images": {
+          "https://ka-perseus-images.s3.amazonaws.com/5f3d7d27a3a93f7a1008aaba2927d865688a272c.png": {
+            "width": 480, 
+            "height": 322
+          }, 
+          "https://ka-perseus-images.s3.amazonaws.com/c73247664b7621442f2fec967ae98a63598f3f86.png": {
+            "width": 480, 
+            "height": 322
+          }
+        }, 
+        "widgets": {
+          "radio 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "radio", 
+            "graded": true, 
+            "options": {
+              "onePerLine": true, 
+              "noneOfTheAbove": false, 
+              "choices": [
+                {
+                  "content": "226-300", 
+                  "correct": true
+                }, 
+                {
+                  "content": "151-225", 
+                  "correct": false
+                }, 
+                {
+                  "content": "76-150", 
+                  "correct": false
+                }, 
+                {
+                  "content": "1-75", 
+                  "correct": false
+                }
+              ], 
+              "displayCount": null, 
+              "multipleSelect": false, 
+              "randomize": false, 
+              "deselectEnabled": false
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "radio"
+    ], 
+    "assessment_item_id": "x3b0264c3db0e8408", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Ryan Patton, Kelly MacKenzie", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJaCxIIVXNlckRhdGEiTHVzZXJfaWRfa2V5X2h0dHA6Ly9ub3VzZXJpZC5raGFuYWNhZGVteS5vcmcvYTdmYjJlZjQyZWEyMzQxYWVjZmVkMDcyZGU4OTFjODAM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/batch_upload/stress---passage-1.png", 
+          "serving_url": "http://lh3.googleusercontent.com/-sOhyX0nsSkmevmjonCg-MyPq-IsE3CTCf-V7tAmsYi0h36EZVva17Mweb2AQsW15k9_KEYr_IjBoqDMA0rWfv3a"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Stress - Passage 1", 
+      "description": "Stress - Passage 1", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "673a3a147106d19080164b83140f6241484fdb2e", 
+              "live": true, 
+              "id": "x3b0264c3db0e8408"
+            }, 
+            {
+              "sha": "2ca6dd0a6610f80b6eef75fea359812bd0bf67f5", 
+              "live": true, 
+              "id": "xb18f47d5a76a5060"
+            }, 
+            {
+              "sha": "99505dfc3861775c84f09edf0137d8d774cc433f", 
+              "live": true, 
+              "id": "x5fe4d4f04924ee80"
+            }, 
+            {
+              "sha": "7ca3a934841aa26c23da8e6f389f709848f708ac", 
+              "live": true, 
+              "id": "x5e88a82c7ffc18dc"
+            }, 
+            {
+              "sha": "5ce7729a5cc844d25a752bd3e14258a888d6b492", 
+              "live": true, 
+              "id": "x2777a6a250fdb491"
+            }
+          ], 
+          "name": "Type 1"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "test-prep", 
+              "id": "x7626d097"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "mcat", 
+              "id": "x04f6bc56"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "social-sciences-practice", 
+              "id": "xf75fcd0c"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "social-science-practice-tut", 
+              "id": "x76558c11"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "stress---passage-1", 
+              "id": "x8d22a3f2"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDhkMjJhM2YyDA", 
+      "current_revision_key": "550727daeb6c8b8e2242b9de771da5a8097e4740", 
+      "suggested_completion_criteria": "do-all", 
+      "name": "stress---passage-1", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Stress, coping, and surgical error", 
+      "key_id": "x8d22a3f2", 
+      "content_id": "x8d22a3f2", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Type 1 1", 
+      "tags": [
+        692001, 
+        5811615341477888, 
+        5851279096020992
+      ], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"Emotional stress can be empowering, and can facilitate improved performance as concentration, focus, and efficiency of action are enhanced. This phenomenon is most evident in the classic \u201cfight or flight\u201d response to perceived threats. However, there comes a breaking point, which excessive stress can result in compromised performance. The field of surgery beckons individuals who thrive in stressful environments, who can experience states of heightened awareness and enjoy the challenging nature of the job. However, long term success in the field requires consistent use of positive coping mechanisms for stress. \\n\\nA study was conducted to assess the effect of different coping mechanisms on laparoscopic surgical performance.  Twenty postgraduate year $2$ residents were selected and offered a questionnaire assessing coping mechanism employed throughout medical school and the internship year. Results were categorized into positive and negative coping mechanism categories. The extent to which these mechanisms were utilized was also evaluated on a scale of $5$ to $15$. Positive coping categories included: minimization, distraction, situation control, substitute gratification, reaction control, and positive self-instructions. Negative coping mechanisms included: escape, rumination, resignation, self-blame, and avoidance. Following completion of the survey, the residents were observed using a simulated laparoscopic surgical training device. After being oriented to the training environment, the residents completed a \u201cdifficult\u201d setting, including difficult manipulation and unexpected bleeding of a major vessel.\\n\\nMeasured performance outcomes including time to completion, errors, and economy of maneuvers were recorded and correlated to the associated individuals coping mechanism evaluation. The results for negative coping strategies and associated errors are documented in Figure $1$, while the results for positive coping strategies and associated errors can be found in Figure $2$.\\n\\nFigure $1$\\n![](https://ka-perseus-images.s3.amazonaws.com/5f3d7d27a3a93f7a1008aaba2927d865688a272c.png)\\n\\n\\nFigure $2$\\n![](https://ka-perseus-images.s3.amazonaws.com/c73247664b7621442f2fec967ae98a63598f3f86.png)\\n\\n**Based on the information in the passage and the associated figures, high utilization of rumination as a coping strategy would correlate with an estimated how many laparoscopic errors? **\\n[[\u2603 radio 1]]\",\"images\":{\"https://ka-perseus-images.s3.amazonaws.com/5f3d7d27a3a93f7a1008aaba2927d865688a272c.png\":{\"width\":480,\"height\":322},\"https://ka-perseus-images.s3.amazonaws.com/c73247664b7621442f2fec967ae98a63598f3f86.png\":{\"width\":480,\"height\":322}},\"widgets\":{\"radio 1\":{\"type\":\"radio\",\"graded\":true,\"options\":{\"choices\":[{\"content\":\"226-300\",\"correct\":true},{\"content\":\"151-225\",\"correct\":false},{\"content\":\"76-150\",\"correct\":false},{\"content\":\"1-75\",\"correct\":false}],\"randomize\":false,\"multipleSelect\":false,\"displayCount\":null,\"noneOfTheAbove\":false,\"onePerLine\":true,\"deselectEnabled\":false},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"Rumination is a negative coping strategy.\",\"images\":{},\"widgets\":{}},{\"content\":\"The question asks you to evaluate the effect of a highly utilized negative coping mechanism on laparoscopic procedure errors.\",\"images\":{},\"widgets\":{}},{\"content\":\"The figure offers evidence that strong implementation of negative coping mechanisms correlates with high number of errors.\",\"images\":{},\"widgets\":{}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": null, 
+      "author_names": [
+        "MCAT"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "673a3a147106d19080164b83140f6241484fdb2e", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [], 
+      "question": {
+        "content": "[[\u2603 interactive-graph 1]]\n\nMate in one. White is to move.", 
+        "images": {}, 
+        "widgets": {
+          "interactive-graph 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "interactive-graph", 
+            "graded": true, 
+            "options": {
+              "rulerTicks": 10, 
+              "showProtractor": false, 
+              "showRuler": false, 
+              "graph": {
+                "type": "segment"
+              }, 
+              "snapStep": [
+                1, 
+                1
+              ], 
+              "labels": [
+                "x", 
+                "y"
+              ], 
+              "range": [
+                [
+                  0, 
+                  9
+                ], 
+                [
+                  0, 
+                  9
+                ]
+              ], 
+              "gridStep": [
+                1, 
+                1
+              ], 
+              "step": [
+                1, 
+                1
+              ], 
+              "markings": "none", 
+              "backgroundImage": {
+                "url": "http://chessonline.ru/KHAN_TEMP/L37/1/image001.png", 
+                "width": 400, 
+                "height": 400
+              }, 
+              "rulerLabel": "", 
+              "correct": {
+                "coords": [
+                  [
+                    [
+                      6, 
+                      7
+                    ], 
+                    [
+                      6, 
+                      3
+                    ]
+                  ]
+                ], 
+                "type": "segment"
+              }
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "interactive-graph"
+    ], 
+    "assessment_item_id": "xa6730e29b8d62f58", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "KCF", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZjE3NzU0YjQyNzY1NDQzNGE2NjIzOGYyZDg2ZjMxOWMM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/201f3e715b03689c1d78cfc6b6b23bf2.png", 
+          "serving_url": "http://lh3.googleusercontent.com/Cj19F5hsdJYOdgsIWQndEwaxqw2bpovpUJ9H5RqPx-gy6xSnVjolDvpfGIf3ORWPBeSNcPDCZMbxtE2842C0BZ4"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": "", 
+        "skip_filter": false
+      }, 
+      "description_html": "Lesson 37 Exercises", 
+      "description": "Lesson 37 Exercises", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "6f9f3fc81072bb17af1a475d503b789a9141b07d", 
+              "live": true, 
+              "id": "xa6730e29b8d62f58", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "761d99571e4f3c2231fac86383d8f12d38cca270", 
+              "live": true, 
+              "id": "xe72a0c08aa5aca47", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8860353fbbeae6d2d027223c79e8539295a5a214", 
+              "live": true, 
+              "id": "x153781afea38e95d", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "c7deabe9da412584dbce9247937d28f77c69837b", 
+              "live": true, 
+              "id": "x30d4516ace59ed4f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f976f56a733b6fa8f0e33484a188903a1c894350", 
+              "live": true, 
+              "id": "x2b667e387468ccf5", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8c4ef9e80701750a8e59a56a6fe1d868aa03cdb9", 
+              "live": true, 
+              "id": "x8b6b3e178c239d80", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8783aa5abe05c1fc42f6bd31f2cceeb6db4d07b2", 
+              "live": true, 
+              "id": "x9c3a1f4358d2b108", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "3ee0a9e2e79afdcda9d7cc4606e4df2604f6f9ef", 
+              "live": true, 
+              "id": "x9195a48ae8817d49", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "182b7e231764a3d4f35c3db7ba6576a54da3c2da", 
+              "live": true, 
+              "id": "x253e4cfa450159a9", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "9b869a7f3c5994fc2846bc06b8dc8a21dde38a0b", 
+              "live": true, 
+              "id": "x55689985ea749906", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "390ea4fca2d1e85e7251b08bc3d65bfe3141efb1", 
+              "live": true, 
+              "id": "x6d7d2427cf3a1cb8", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bb130a2e3f98b0cea1e15a76e2d8ea48f6150f64", 
+              "live": true, 
+              "id": "x2743c6d5a8a62c2e", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "07e69d5a0b7aec38f585caef4f7b97317626c58c", 
+              "live": true, 
+              "id": "xf40d38f0a64a3aa2", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cca03ece5b0e38eb2f5eda440084c5e6e0e9c079", 
+              "live": true, 
+              "id": "x18e678f67c85d860", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "77ddbd7bbf6a705b42ce2a1703ff1aa7b4e5d8b0", 
+              "live": true, 
+              "id": "xf433d002d4953759", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "4a3449561fa9fcc2e21ef45c70aee14f31a0de80", 
+              "live": true, 
+              "id": "x5fcf9f46629fe466", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f4c4735cce15e72a88022846c64df0478d297ac0", 
+              "live": true, 
+              "id": "x45e0c0ec6d2501ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "827a7afe3c1fda212be6e5649ab093f7a19379cd", 
+              "live": true, 
+              "id": "x425aeabbc1a42c1a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5eae7035df9fa0c169847b5ef542c950e0af07db", 
+              "live": true, 
+              "id": "xba95c1a552b9eae4", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4fd5cfacbba1740750686633cad67bb2a22d4638", 
+              "live": true, 
+              "id": "xe0bb1775fee6dc5f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e69c1f06fa99c2ac18be48bdc09096edafb66e03", 
+              "live": true, 
+              "id": "x645d5849ffdea9a6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cb4462d4262cc14f0e089aef55821dde911d25be", 
+              "live": true, 
+              "id": "x78190338b245bf51", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "74bf84d54754f7a98bc8e5279fd6eb3ddd0043f7", 
+              "live": true, 
+              "id": "x7b0805e96be465ec", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa286036d35e6e16e52dd8e994dc105568004b3b", 
+              "live": true, 
+              "id": "xa7f94eca24dda09a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "ec2382d3b6d122b0d35233cbad6d24a15843ba2c", 
+              "live": true, 
+              "id": "x1a93d4b3595cf2ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "04805262196529078373f7d2805ee90841537d64", 
+              "live": true, 
+              "id": "x5933618f7284d232", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa1604aee67da7bc50dc8188603ed979ef48d881", 
+              "live": true, 
+              "id": "x9a4fc4792ece786f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5a9b64e0ea29b1b65ff001faba9a2f8b18a485f2", 
+              "live": true, 
+              "id": "xf53c52e05ea9ebac", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bd8318cc52e5266cf850bd7a59774c254f4d847f", 
+              "live": true, 
+              "id": "xe3130f973b1afa30", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "83291333bffb11169faa2454c77533958c6d2094", 
+              "live": true, 
+              "id": "x79782c070d15d319", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "909e040db5e0eee23d9a9fc0814d15aa9a0bab2b", 
+              "live": true, 
+              "id": "x735822f2878e2a2a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e9c746de00ea66ad4933ff9feb29e31236462457", 
+              "live": true, 
+              "id": "x8d64779fa05d40b6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Extra exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "04dc9777f85053e73dc10ff2f1df46e80b86ccd6", 
+              "live": true, 
+              "id": "x027a9cdd87cabe0b", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4094ba15c22f573262270519991b069104e3c436", 
+              "live": true, 
+              "id": "x8583ed6e30aa3087", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "51a721e7e974fa6fbe726f145cef32f48ff7c4e3", 
+              "live": true, 
+              "id": "xc6215a37164e0fdb", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Advanced exercises"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "puppies", 
+              "id": "xfbfcb2c7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "kasparov-staging", 
+              "id": "xf42e7875"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "lesson-37-scholar's-mate", 
+              "id": "x2ee170ad"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "lesson-37-exercises", 
+              "id": "x7b47aa8c"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDdiNDdhYThjDA", 
+      "current_revision_key": "be9e1ede1e215a86f8ef6139f4b43acf0e9cc818", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "lesson-37-exercises", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:49Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Lesson 37 Exercises", 
+      "key_id": "x7b47aa8c", 
+      "content_id": "x7b47aa8c", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Item 1", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"[[\u2603 interactive-graph 1]]\\n\\nMate in one. White is to move.\",\"images\":{},\"widgets\":{\"interactive-graph 1\":{\"type\":\"interactive-graph\",\"graded\":true,\"options\":{\"step\":[1,1],\"backgroundImage\":{\"url\":\"http://chessonline.ru/KHAN_TEMP/L37/1/image001.png\",\"width\":400,\"height\":400},\"markings\":\"none\",\"labels\":[\"x\",\"y\"],\"showProtractor\":false,\"showRuler\":false,\"rulerLabel\":\"\",\"rulerTicks\":10,\"range\":[[0,9],[0,9]],\"gridStep\":[1,1],\"snapStep\":[1,1],\"graph\":{\"type\":\"segment\"},\"correct\":{\"type\":\"segment\",\"coords\":[[[6,7],[6,3]]]}},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[]}", 
+      "requires_screen_or_mouse": true, 
+      "perseus_api_major_version": 0, 
+      "author_names": [
+        "chessok1"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "6f9f3fc81072bb17af1a475d503b789a9141b07d", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [], 
+      "question": {
+        "content": "[[\u2603 interactive-graph 1]]\n\nMate in one. White is to move.", 
+        "images": {}, 
+        "widgets": {
+          "interactive-graph 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "interactive-graph", 
+            "graded": true, 
+            "options": {
+              "rulerTicks": 10, 
+              "showProtractor": false, 
+              "showRuler": false, 
+              "graph": {
+                "type": "segment"
+              }, 
+              "snapStep": [
+                1, 
+                1
+              ], 
+              "labels": [
+                "x", 
+                "y"
+              ], 
+              "range": [
+                [
+                  0, 
+                  9
+                ], 
+                [
+                  0, 
+                  9
+                ]
+              ], 
+              "gridStep": [
+                1, 
+                1
+              ], 
+              "step": [
+                1, 
+                1
+              ], 
+              "markings": "none", 
+              "backgroundImage": {
+                "url": "http://chessonline.ru/KHAN_TEMP/L37/2/image001.png", 
+                "width": 400, 
+                "height": 400
+              }, 
+              "rulerLabel": "", 
+              "correct": {
+                "coords": [
+                  [
+                    [
+                      6, 
+                      7
+                    ], 
+                    [
+                      2, 
+                      7
+                    ]
+                  ]
+                ], 
+                "type": "segment"
+              }
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "interactive-graph"
+    ], 
+    "assessment_item_id": "x5fcf9f46629fe466", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "KCF", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZjE3NzU0YjQyNzY1NDQzNGE2NjIzOGYyZDg2ZjMxOWMM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/201f3e715b03689c1d78cfc6b6b23bf2.png", 
+          "serving_url": "http://lh3.googleusercontent.com/Cj19F5hsdJYOdgsIWQndEwaxqw2bpovpUJ9H5RqPx-gy6xSnVjolDvpfGIf3ORWPBeSNcPDCZMbxtE2842C0BZ4"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": "", 
+        "skip_filter": false
+      }, 
+      "description_html": "Lesson 37 Exercises", 
+      "description": "Lesson 37 Exercises", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "6f9f3fc81072bb17af1a475d503b789a9141b07d", 
+              "live": true, 
+              "id": "xa6730e29b8d62f58", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "761d99571e4f3c2231fac86383d8f12d38cca270", 
+              "live": true, 
+              "id": "xe72a0c08aa5aca47", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8860353fbbeae6d2d027223c79e8539295a5a214", 
+              "live": true, 
+              "id": "x153781afea38e95d", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "c7deabe9da412584dbce9247937d28f77c69837b", 
+              "live": true, 
+              "id": "x30d4516ace59ed4f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f976f56a733b6fa8f0e33484a188903a1c894350", 
+              "live": true, 
+              "id": "x2b667e387468ccf5", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8c4ef9e80701750a8e59a56a6fe1d868aa03cdb9", 
+              "live": true, 
+              "id": "x8b6b3e178c239d80", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8783aa5abe05c1fc42f6bd31f2cceeb6db4d07b2", 
+              "live": true, 
+              "id": "x9c3a1f4358d2b108", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "3ee0a9e2e79afdcda9d7cc4606e4df2604f6f9ef", 
+              "live": true, 
+              "id": "x9195a48ae8817d49", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "182b7e231764a3d4f35c3db7ba6576a54da3c2da", 
+              "live": true, 
+              "id": "x253e4cfa450159a9", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "9b869a7f3c5994fc2846bc06b8dc8a21dde38a0b", 
+              "live": true, 
+              "id": "x55689985ea749906", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "390ea4fca2d1e85e7251b08bc3d65bfe3141efb1", 
+              "live": true, 
+              "id": "x6d7d2427cf3a1cb8", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bb130a2e3f98b0cea1e15a76e2d8ea48f6150f64", 
+              "live": true, 
+              "id": "x2743c6d5a8a62c2e", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "07e69d5a0b7aec38f585caef4f7b97317626c58c", 
+              "live": true, 
+              "id": "xf40d38f0a64a3aa2", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cca03ece5b0e38eb2f5eda440084c5e6e0e9c079", 
+              "live": true, 
+              "id": "x18e678f67c85d860", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "77ddbd7bbf6a705b42ce2a1703ff1aa7b4e5d8b0", 
+              "live": true, 
+              "id": "xf433d002d4953759", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "4a3449561fa9fcc2e21ef45c70aee14f31a0de80", 
+              "live": true, 
+              "id": "x5fcf9f46629fe466", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f4c4735cce15e72a88022846c64df0478d297ac0", 
+              "live": true, 
+              "id": "x45e0c0ec6d2501ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "827a7afe3c1fda212be6e5649ab093f7a19379cd", 
+              "live": true, 
+              "id": "x425aeabbc1a42c1a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5eae7035df9fa0c169847b5ef542c950e0af07db", 
+              "live": true, 
+              "id": "xba95c1a552b9eae4", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4fd5cfacbba1740750686633cad67bb2a22d4638", 
+              "live": true, 
+              "id": "xe0bb1775fee6dc5f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e69c1f06fa99c2ac18be48bdc09096edafb66e03", 
+              "live": true, 
+              "id": "x645d5849ffdea9a6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cb4462d4262cc14f0e089aef55821dde911d25be", 
+              "live": true, 
+              "id": "x78190338b245bf51", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "74bf84d54754f7a98bc8e5279fd6eb3ddd0043f7", 
+              "live": true, 
+              "id": "x7b0805e96be465ec", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa286036d35e6e16e52dd8e994dc105568004b3b", 
+              "live": true, 
+              "id": "xa7f94eca24dda09a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "ec2382d3b6d122b0d35233cbad6d24a15843ba2c", 
+              "live": true, 
+              "id": "x1a93d4b3595cf2ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "04805262196529078373f7d2805ee90841537d64", 
+              "live": true, 
+              "id": "x5933618f7284d232", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa1604aee67da7bc50dc8188603ed979ef48d881", 
+              "live": true, 
+              "id": "x9a4fc4792ece786f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5a9b64e0ea29b1b65ff001faba9a2f8b18a485f2", 
+              "live": true, 
+              "id": "xf53c52e05ea9ebac", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bd8318cc52e5266cf850bd7a59774c254f4d847f", 
+              "live": true, 
+              "id": "xe3130f973b1afa30", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "83291333bffb11169faa2454c77533958c6d2094", 
+              "live": true, 
+              "id": "x79782c070d15d319", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "909e040db5e0eee23d9a9fc0814d15aa9a0bab2b", 
+              "live": true, 
+              "id": "x735822f2878e2a2a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e9c746de00ea66ad4933ff9feb29e31236462457", 
+              "live": true, 
+              "id": "x8d64779fa05d40b6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Extra exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "04dc9777f85053e73dc10ff2f1df46e80b86ccd6", 
+              "live": true, 
+              "id": "x027a9cdd87cabe0b", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4094ba15c22f573262270519991b069104e3c436", 
+              "live": true, 
+              "id": "x8583ed6e30aa3087", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "51a721e7e974fa6fbe726f145cef32f48ff7c4e3", 
+              "live": true, 
+              "id": "xc6215a37164e0fdb", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Advanced exercises"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "puppies", 
+              "id": "xfbfcb2c7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "kasparov-staging", 
+              "id": "xf42e7875"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "lesson-37-scholar's-mate", 
+              "id": "x2ee170ad"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "lesson-37-exercises", 
+              "id": "x7b47aa8c"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDdiNDdhYThjDA", 
+      "current_revision_key": "be9e1ede1e215a86f8ef6139f4b43acf0e9cc818", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "lesson-37-exercises", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:49Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Lesson 37 Exercises", 
+      "key_id": "x7b47aa8c", 
+      "content_id": "x7b47aa8c", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Item 1", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"[[\u2603 interactive-graph 1]]\\n\\nMate in one. White is to move.\",\"images\":{},\"widgets\":{\"interactive-graph 1\":{\"type\":\"interactive-graph\",\"graded\":true,\"options\":{\"step\":[1,1],\"backgroundImage\":{\"url\":\"http://chessonline.ru/KHAN_TEMP/L37/2/image001.png\",\"width\":400,\"height\":400},\"markings\":\"none\",\"labels\":[\"x\",\"y\"],\"showProtractor\":false,\"showRuler\":false,\"rulerLabel\":\"\",\"rulerTicks\":10,\"range\":[[0,9],[0,9]],\"gridStep\":[1,1],\"snapStep\":[1,1],\"graph\":{\"type\":\"segment\"},\"correct\":{\"type\":\"segment\",\"coords\":[[[6,7],[2,7]]]}},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[]}", 
+      "requires_screen_or_mouse": true, 
+      "perseus_api_major_version": 0, 
+      "author_names": [
+        "chessok1"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "4a3449561fa9fcc2e21ef45c70aee14f31a0de80", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [], 
+      "question": {
+        "content": "[[\u2603 interactive-graph 1]]\n\nMate in two. White is to move. Make the first move.", 
+        "images": {}, 
+        "widgets": {
+          "interactive-graph 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "interactive-graph", 
+            "graded": true, 
+            "options": {
+              "rulerTicks": 10, 
+              "showProtractor": false, 
+              "showRuler": false, 
+              "graph": {
+                "type": "segment"
+              }, 
+              "snapStep": [
+                1, 
+                1
+              ], 
+              "labels": [
+                "x", 
+                "y"
+              ], 
+              "range": [
+                [
+                  0, 
+                  9
+                ], 
+                [
+                  0, 
+                  9
+                ]
+              ], 
+              "gridStep": [
+                1, 
+                1
+              ], 
+              "step": [
+                1, 
+                1
+              ], 
+              "markings": "none", 
+              "backgroundImage": {
+                "url": "http://chessonline.ru/KHAN_TEMP/L37/3/image001.png", 
+                "width": 400, 
+                "height": 400
+              }, 
+              "rulerLabel": "", 
+              "correct": {
+                "coords": [
+                  [
+                    [
+                      4, 
+                      5
+                    ], 
+                    [
+                      6, 
+                      6
+                    ]
+                  ]
+                ], 
+                "type": "segment"
+              }
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "interactive-graph"
+    ], 
+    "assessment_item_id": "x027a9cdd87cabe0b", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "KCF", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvZjE3NzU0YjQyNzY1NDQzNGE2NjIzOGYyZDg2ZjMxOWMM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/201f3e715b03689c1d78cfc6b6b23bf2.png", 
+          "serving_url": "http://lh3.googleusercontent.com/Cj19F5hsdJYOdgsIWQndEwaxqw2bpovpUJ9H5RqPx-gy6xSnVjolDvpfGIf3ORWPBeSNcPDCZMbxtE2842C0BZ4"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": "", 
+        "skip_filter": false
+      }, 
+      "description_html": "Lesson 37 Exercises", 
+      "description": "Lesson 37 Exercises", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "6f9f3fc81072bb17af1a475d503b789a9141b07d", 
+              "live": true, 
+              "id": "xa6730e29b8d62f58", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "761d99571e4f3c2231fac86383d8f12d38cca270", 
+              "live": true, 
+              "id": "xe72a0c08aa5aca47", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8860353fbbeae6d2d027223c79e8539295a5a214", 
+              "live": true, 
+              "id": "x153781afea38e95d", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "c7deabe9da412584dbce9247937d28f77c69837b", 
+              "live": true, 
+              "id": "x30d4516ace59ed4f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f976f56a733b6fa8f0e33484a188903a1c894350", 
+              "live": true, 
+              "id": "x2b667e387468ccf5", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8c4ef9e80701750a8e59a56a6fe1d868aa03cdb9", 
+              "live": true, 
+              "id": "x8b6b3e178c239d80", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "8783aa5abe05c1fc42f6bd31f2cceeb6db4d07b2", 
+              "live": true, 
+              "id": "x9c3a1f4358d2b108", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "3ee0a9e2e79afdcda9d7cc4606e4df2604f6f9ef", 
+              "live": true, 
+              "id": "x9195a48ae8817d49", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "182b7e231764a3d4f35c3db7ba6576a54da3c2da", 
+              "live": true, 
+              "id": "x253e4cfa450159a9", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "9b869a7f3c5994fc2846bc06b8dc8a21dde38a0b", 
+              "live": true, 
+              "id": "x55689985ea749906", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "390ea4fca2d1e85e7251b08bc3d65bfe3141efb1", 
+              "live": true, 
+              "id": "x6d7d2427cf3a1cb8", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bb130a2e3f98b0cea1e15a76e2d8ea48f6150f64", 
+              "live": true, 
+              "id": "x2743c6d5a8a62c2e", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "07e69d5a0b7aec38f585caef4f7b97317626c58c", 
+              "live": true, 
+              "id": "xf40d38f0a64a3aa2", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cca03ece5b0e38eb2f5eda440084c5e6e0e9c079", 
+              "live": true, 
+              "id": "x18e678f67c85d860", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "77ddbd7bbf6a705b42ce2a1703ff1aa7b4e5d8b0", 
+              "live": true, 
+              "id": "xf433d002d4953759", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "4a3449561fa9fcc2e21ef45c70aee14f31a0de80", 
+              "live": true, 
+              "id": "x5fcf9f46629fe466", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "f4c4735cce15e72a88022846c64df0478d297ac0", 
+              "live": true, 
+              "id": "x45e0c0ec6d2501ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "827a7afe3c1fda212be6e5649ab093f7a19379cd", 
+              "live": true, 
+              "id": "x425aeabbc1a42c1a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5eae7035df9fa0c169847b5ef542c950e0af07db", 
+              "live": true, 
+              "id": "xba95c1a552b9eae4", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4fd5cfacbba1740750686633cad67bb2a22d4638", 
+              "live": true, 
+              "id": "xe0bb1775fee6dc5f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e69c1f06fa99c2ac18be48bdc09096edafb66e03", 
+              "live": true, 
+              "id": "x645d5849ffdea9a6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "cb4462d4262cc14f0e089aef55821dde911d25be", 
+              "live": true, 
+              "id": "x78190338b245bf51", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "74bf84d54754f7a98bc8e5279fd6eb3ddd0043f7", 
+              "live": true, 
+              "id": "x7b0805e96be465ec", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa286036d35e6e16e52dd8e994dc105568004b3b", 
+              "live": true, 
+              "id": "xa7f94eca24dda09a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "ec2382d3b6d122b0d35233cbad6d24a15843ba2c", 
+              "live": true, 
+              "id": "x1a93d4b3595cf2ca", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "04805262196529078373f7d2805ee90841537d64", 
+              "live": true, 
+              "id": "x5933618f7284d232", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "aa1604aee67da7bc50dc8188603ed979ef48d881", 
+              "live": true, 
+              "id": "x9a4fc4792ece786f", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "5a9b64e0ea29b1b65ff001faba9a2f8b18a485f2", 
+              "live": true, 
+              "id": "xf53c52e05ea9ebac", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "bd8318cc52e5266cf850bd7a59774c254f4d847f", 
+              "live": true, 
+              "id": "xe3130f973b1afa30", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "83291333bffb11169faa2454c77533958c6d2094", 
+              "live": true, 
+              "id": "x79782c070d15d319", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "909e040db5e0eee23d9a9fc0814d15aa9a0bab2b", 
+              "live": true, 
+              "id": "x735822f2878e2a2a", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "e9c746de00ea66ad4933ff9feb29e31236462457", 
+              "live": true, 
+              "id": "x8d64779fa05d40b6", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Extra exercises"
+        }, 
+        {
+          "items": [
+            {
+              "sha": "04dc9777f85053e73dc10ff2f1df46e80b86ccd6", 
+              "live": true, 
+              "id": "x027a9cdd87cabe0b", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "4094ba15c22f573262270519991b069104e3c436", 
+              "live": true, 
+              "id": "x8583ed6e30aa3087", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }, 
+            {
+              "sha": "51a721e7e974fa6fbe726f145cef32f48ff7c4e3", 
+              "live": true, 
+              "id": "xc6215a37164e0fdb", 
+              "perseus_api_major_version": 0, 
+              "requires_screen_or_mouse": true
+            }
+          ], 
+          "related_videos": [], 
+          "name": "Advanced exercises"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "puppies", 
+              "id": "xfbfcb2c7"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "kasparov-staging", 
+              "id": "xf42e7875"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "lesson-37-scholar's-mate", 
+              "id": "x2ee170ad"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "lesson-37-exercises", 
+              "id": "x7b47aa8c"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDdiNDdhYThjDA", 
+      "current_revision_key": "be9e1ede1e215a86f8ef6139f4b43acf0e9cc818", 
+      "suggested_completion_criteria": "num_correct_in_a_row_5", 
+      "name": "lesson-37-exercises", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:49Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Lesson 37 Exercises", 
+      "key_id": "x7b47aa8c", 
+      "content_id": "x7b47aa8c", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "Item 1-1", 
+      "tags": [], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"[[\u2603 interactive-graph 1]]\\n\\nMate in two. White is to move. Make the first move.\",\"images\":{},\"widgets\":{\"interactive-graph 1\":{\"type\":\"interactive-graph\",\"graded\":true,\"options\":{\"step\":[1,1],\"backgroundImage\":{\"url\":\"http://chessonline.ru/KHAN_TEMP/L37/3/image001.png\",\"width\":400,\"height\":400},\"markings\":\"none\",\"labels\":[\"x\",\"y\"],\"showProtractor\":false,\"showRuler\":false,\"rulerLabel\":\"\",\"rulerTicks\":10,\"range\":[[0,9],[0,9]],\"gridStep\":[1,1],\"snapStep\":[1,1],\"graph\":{\"type\":\"segment\"},\"correct\":{\"type\":\"segment\",\"coords\":[[[4,5],[6,6]]]}},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[]}", 
+      "requires_screen_or_mouse": true, 
+      "perseus_api_major_version": 0, 
+      "author_names": [
+        "chessok1"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "04dc9777f85053e73dc10ff2f1df46e80b86ccd6", 
+      "is_dirty": false
+    }
+  }, 
+  {
+    "perseus_data": {
+      "itemDataVersion": {
+        "major": 0, 
+        "minor": 1
+      }, 
+      "hints": [
+        {
+          "content": "The trading of commodities such as gold made some merchants very wealthy.", 
+          "images": {}, 
+          "widgets": {}
+        }, 
+        {
+          "content": "The use of gold and other precious metals as well as the use of paper money helped to encourage and improve trade.", 
+          "images": {}, 
+          "widgets": {}
+        }
+      ], 
+      "question": {
+        "content": "**The use of [[\u2603 dropdown 1]] as depicted in the images below helped to facilitate trade. **\n\n![](https://ka-perseus-images.s3.amazonaws.com/f462541172f1d49d8fc3580e57bd39f84c91014f.png)\n\n\n![](https://ka-perseus-images.s3.amazonaws.com/ce03eb7be98c86ecc852addf1c9809ddcd2b7171.png)", 
+        "images": {
+          "https://ka-perseus-images.s3.amazonaws.com/f462541172f1d49d8fc3580e57bd39f84c91014f.png": {
+            "width": 412, 
+            "height": 271
+          }, 
+          "https://ka-perseus-images.s3.amazonaws.com/ce03eb7be98c86ecc852addf1c9809ddcd2b7171.png": {
+            "width": 318, 
+            "height": 449
+          }
+        }, 
+        "widgets": {
+          "dropdown 1": {
+            "version": {
+              "major": 0, 
+              "minor": 0
+            }, 
+            "type": "dropdown", 
+            "graded": true, 
+            "options": {
+              "placeholder": "", 
+              "choices": [
+                {
+                  "content": "gold", 
+                  "correct": false
+                }, 
+                {
+                  "content": "paper", 
+                  "correct": false
+                }, 
+                {
+                  "content": "currency", 
+                  "correct": true
+                }
+              ]
+            }
+          }
+        }
+      }, 
+      "answerArea": {
+        "calculator": false, 
+        "type": "multiple", 
+        "options": {
+          "content": "", 
+          "images": {}, 
+          "widgets": {}
+        }
+      }
+    }, 
+    "widgets": [
+      "dropdown"
+    ], 
+    "assessment_item_id": "x42bd01d5f3a58ed5", 
+    "container": {
+      "tracking_document_url": null, 
+      "file_name": null, 
+      "author_name": "Jay Heins", 
+      "v_position": 0, 
+      "author_key": "ag5zfmtoYW4tYWNhZGVteXJdCxIIVXNlckRhdGEiT3VzZXJfZW1haWxfa2V5X2h0dHA6Ly9ub3VzZXJpZC5raGFuYWNhZGVteS5vcmcvZDNhNmE0MjllY2JmOTAzMDBjYjFhYTNkYmEwOWMxNWQM", 
+      "thumbnail_cache": {
+        "filtered": {
+          "gcs_name": "/ka_thumbnails_cache/batch_upload/quiz--commerce---collective-learning.png", 
+          "serving_url": "http://lh3.googleusercontent.com/X-bFQ5Mb8jLjsHxw1aJ3E8yvAZHNNTqKhDs-f9fPnwQ63ILvVMItG7Yf2ZHvQaG6Bg4esKzORcol0cAIy2szieVI"
+        }
+      }, 
+      "concept_tags": [], 
+      "h_position": 0, 
+      "parent_key": null, 
+      "do_not_publish": false, 
+      "summative": false, 
+      "deleted_mod_time": null, 
+      "thumbnail_data": {
+        "url": "", 
+        "gcs_name": "", 
+        "title_text": ""
+      }, 
+      "description_html": "Quiz 8.2", 
+      "description": "Quiz 8.2", 
+      "tags": [], 
+      "deleted": false, 
+      "problem_types": [
+        {
+          "items": [
+            {
+              "sha": "9ef431a84c3bc6b061f046af4a4067c98550ff3d", 
+              "live": true, 
+              "id": "x42bd01d5f3a58ed5"
+            }, 
+            {
+              "sha": "6386bcfc7ff9d8026bfb03eaab56f1d8af13b581", 
+              "live": true, 
+              "id": "xc0263b3fbf6810d9"
+            }, 
+            {
+              "sha": "112b1acf41adbbd0eb377f38373446b26c4541a9", 
+              "live": true, 
+              "id": "x8037fb68f22c1563"
+            }, 
+            {
+              "sha": "5960699390ed313a0a407b360cc6414a38f39f98", 
+              "live": true, 
+              "id": "xead4952b6f21322f"
+            }, 
+            {
+              "sha": "317150a2fd95e45cca18671790da6c4ddf25d571", 
+              "live": true, 
+              "id": "xd4c7c2a9d4c3d6b6"
+            }
+          ], 
+          "name": "Type 1"
+        }
+      ], 
+      "topic_paths": [
+        {
+          "path": [
+            {
+              "kind": "Topic", 
+              "slug": "partner-content", 
+              "id": "x54390c7e"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "big-history-project", 
+              "id": "x5d2ce072"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "expansion-interconnection", 
+              "id": "x739200d9"
+            }, 
+            {
+              "kind": "Topic", 
+              "slug": "commerce-collective-learning", 
+              "id": "xdf29e855"
+            }, 
+            {
+              "kind": "Exercise", 
+              "slug": "quiz--commerce---collective-learning", 
+              "id": "x27ec4d39"
+            }
+          ]
+        }
+      ], 
+      "curated_related_videos": [], 
+      "tutorial_only": true, 
+      "key": "ahBkZXZ-a2hhbi1hY2FkZW15chcLEghFeGVyY2lzZSIJeDI3ZWM0ZDM5DA", 
+      "current_revision_key": "87dc9e1f2e97b2291daf0bf840dae998577dc866", 
+      "suggested_completion_criteria": "do-all", 
+      "name": "quiz--commerce---collective-learning", 
+      "covers": [], 
+      "date_modified": "2015-10-28T18:47:48Z", 
+      "prerequisites": [], 
+      "seconds_per_fast_problem": 4.0, 
+      "pretty_display_name": "Quiz: Commerce & Collective Learning", 
+      "key_id": "x27ec4d39", 
+      "content_id": "x27ec4d39", 
+      "assessment_item_tags": []
+    }, 
+    "assessment_item": {
+      "name": "dropdown", 
+      "tags": [
+        7958001
+      ], 
+      "deleted": false, 
+      "item_data": "{\"question\":{\"content\":\"**The use of [[\u2603 dropdown 1]] as depicted in the images below helped to facilitate trade. **\\n\\n![](https://ka-perseus-images.s3.amazonaws.com/f462541172f1d49d8fc3580e57bd39f84c91014f.png)\\n\\n\\n![](https://ka-perseus-images.s3.amazonaws.com/ce03eb7be98c86ecc852addf1c9809ddcd2b7171.png)\",\"images\":{\"https://ka-perseus-images.s3.amazonaws.com/f462541172f1d49d8fc3580e57bd39f84c91014f.png\":{\"width\":412,\"height\":271},\"https://ka-perseus-images.s3.amazonaws.com/ce03eb7be98c86ecc852addf1c9809ddcd2b7171.png\":{\"width\":318,\"height\":449}},\"widgets\":{\"dropdown 1\":{\"type\":\"dropdown\",\"graded\":true,\"options\":{\"placeholder\":\"\",\"choices\":[{\"content\":\"gold\",\"correct\":false},{\"content\":\"paper\",\"correct\":false},{\"content\":\"currency\",\"correct\":true}]},\"version\":{\"major\":0,\"minor\":0}}}},\"answerArea\":{\"type\":\"multiple\",\"options\":{\"content\":\"\",\"images\":{},\"widgets\":{}},\"calculator\":false},\"itemDataVersion\":{\"major\":0,\"minor\":1},\"hints\":[{\"content\":\"The trading of commodities such as gold made some merchants very wealthy.\",\"images\":{},\"widgets\":{}},{\"content\":\"The use of gold and other precious metals as well as the use of paper money helped to encourage and improve trade.\",\"images\":{},\"widgets\":{}}]}", 
+      "requires_screen_or_mouse": false, 
+      "perseus_api_major_version": null, 
+      "author_names": [
+        "Jay Heins"
+      ], 
+      "created_by": null, 
+      "current_revision_key": "9ef431a84c3bc6b061f046af4a4067c98550ff3d", 
+      "is_dirty": false
+    }
+  }
+]

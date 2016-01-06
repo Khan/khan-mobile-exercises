@@ -1,0 +1,147 @@
+/* This is @bryan's second attempt at taming Perseus CSS.
+/* I've had a chance to review Perseus CSS overriding with Jared - let's give it another go!
+
+
+/* MARK: THE CANVAS */
+/* Start at the top: we need to re-sculpt the container elements */
+body {
+  padding: 0px!important;
+}
+
+#problem-and-answer {
+  width: auto!important;
+  margin: 0 16px!important;
+  max-width: 768px!important;
+}
+
+#problemarea {
+  padding-bottom: 0!important;
+}
+
+/* Some elements are full-width */
+.perseus-widget-radio {
+  width: auto!important;
+  /* 16px matches the margin on #problem-and-answer */
+  margin-left: -16px!important;
+  margin-right: -16px!important;
+}
+
+/* MARK: SPACING */
+.perseus-radio-option {
+  margin-bottom: 0!important;
+}
+
+
+/* MARK: BACKGROUND COLORS */
+/* We use a non-white background color for most stuff */
+body{
+  background-color: #FAFAFA!important;
+}
+
+/* Some things have a white background color */
+.perseus-input,
+.svg-img,
+.blank-background{
+  background-color: #FFF!important;
+}
+
+/* Touch highlights - borrowed color from iOS spec*/
+.perseus-radio-option:active {
+  background-color: rgba(227, 229, 230, 0.50)!important;
+}
+
+
+/* MARK: BORDERS */
+/* Some things have borders at the top and bottom of 'em */
+.perseus-widget-radio {
+  border-top: 1px solid #D6D8DA!important;
+  border-bottom: 1px solid #D6D8DA!important;
+  border-right: none!important;
+  border-left: none!important;
+}
+
+/* Add a gray border */
+.perseus-input {
+  border: 1px solid #D6D8DA!important;
+}
+
+/* Add a color border */
+.perseus-focused {
+  border-color: #3C91E5!important;
+}
+
+/* Remove goofy outlines */
+.perseus-radio-option {
+  border: none!important;
+}
+
+/* Remove giant rounded borders */
+.perseus-radio-option,
+.perseus-radio-option:active {
+  border-radius: 0!important;
+}
+
+/* Add nice 4px rounded corner */
+.perseus-input {
+  border-radius: 4px!important;
+}
+
+
+/* MARK: ANIMATIONS */
+/* What feels right with mouse-and-keyboard doesn't feel right with touch. Let's use no transition animations as a default. */
+body,
+.perseus-radio-option,
+.perseus-radio-selected,
+.perseus-widget-radio {
+  transition-duration: 0!important;
+}
+
+
+/* MARK: TYPOGRAPHY */
+/* Most text is 16pt ProximaNova-Light */
+.paragraph {
+  font-family: ProximaNova-Light, AvenirNext-Light, "Helvetica Neue", Arial, sans-serif!important;
+  font-size: 16px!important;
+  line-height: 24px!important;
+  color: #626569!important;
+}
+
+
+/* MARK: PERSEUS WIDGETS */
+/* From here on out, it's weird-selectors-that-I-had-a-hard-time-generalizing.
+
+/* MARK: PERSEUS-RADIO */
+/* Our list options in a radio widget should be further to the left */
+body.mobile .perseus-widget-radio .perseus-radio-option .perseus-radio-option-content {
+  margin-left: 4px!important;
+}
+
+/* Our checkmark option is a circle, yo. */
+body.mobile .perseus-widget-radio input[type=radio]:checked {
+  background-color: #3C91E5!important;
+  width: 16px!important;
+  height: 16px!important;
+  border-radius: 50%!important;
+  border: 2px solid #FFF!important;
+  box-shadow: 0 0px 0px 2px #3C91E5!important;
+}
+
+body.mobile .perseus-widget-radio input[type=radio] {
+  background-color: #FFF!important;
+  width: 16px!important;
+  height: 16px!important;
+  border-radius: 50%!important;
+  border: 2px solid #FFF!important;
+  box-shadow: 0 0px 0px 1px #D6D8DA!important;
+  margin-top: 8px!important;
+}
+
+body.mobile .perseus-widget-radio:active input[type=radio] {
+  background-color: transparent!important;
+  border: none!important;
+}
+
+/* MARK: PERSEUS-INPUT (TEXT INPUT) */
+.perseus-input div {
+  margin-top: 5px!important;
+}

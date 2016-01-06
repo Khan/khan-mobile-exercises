@@ -1,0 +1,32 @@
+/* To ensure that the CSS overrides properly, use !important, like so: */
+body {
+  background-color: green!important;
+}
+
+
+/* Here's how we can have easy "option-toggles"
+/* Delete the trailing "/" character in the option title comment: */
+
+/* First Option *
+
+body {
+  background-color: red!important;
+}
+
+/* end first option */
+/* Second Option *
+
+body {
+  background-color: blue!important;
+}
+
+/*end second option*/
+
+
+/* Media Queries */
+
+@media (min-width: 500px) {
+  body {
+    background-color: red!important;
+  }
+}

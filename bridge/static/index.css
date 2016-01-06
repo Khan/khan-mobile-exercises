@@ -1,0 +1,9 @@
+
+/* Make the iframe about the size of a portrait iPad */
+iframe {
+    width: 768px;
+    height: 757px;
+    border: 2px solid #aaa;
+    margin: 30px;
+}
+
