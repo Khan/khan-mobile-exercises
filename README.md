@@ -28,7 +28,8 @@ There are two parts to using the tool: the **initial setup** (takes a few minute
 1. **Start it Up** _(you’ll need to do this each time you want to start using the harness - like, at the start of your day.)_
 	2. In Terminal, navigate to the root directory of this project.
 	3. Type in `node server.js` to get the server up and running - this hosts the harness, and watches for CSS changes.
-	4. Open a new Terminal tab (it’ll remain in the directory) and type `npm run watch` to start watching for tweaks to the Javascript files that make up the harness (not needed if you’re not tweaking the tool itself).
+	4. (If you get an error about "express"): type in `npm install`
+	5. Open a new Terminal tab (it’ll remain in the directory) and type `npm run watch` to start watching for tweaks to the Javascript files that make up the harness (not needed if you’re not tweaking the tool itself).
 2. **Go Use It**: Visit `http://localhost:3050/prototype-core/public/` (preferably in Chrome, but Safari works, too!) and enjoy!
 
 ## How do I make CSS changes?
