@@ -22,15 +22,9 @@ The really neat part: live CSS updates! You can either (a) change which CSS file
 ## Setting it Up
 There are two parts to using the tool: the **initial setup** (takes a few minutes) and then to **start it up**, you’ll need to run a couple of commands (only takes a few seconds).
 
-0. **Initial Setup** _(you’ll only need to do this once)_: build a cache of exercises and articles that the harness will then search, filter, and render. (NOTE: If you already see `first-items.js` in the root directory of the project, no need to repeat this process!)
-	1. Start up webapp on your local machine (in `khan/webapp`, type `make serve` into a Terminal window, and leave it open.
-	2. In another Terminal window, go to the root directory of this project; type in this series of commands (Note: `>>>` is the Python prompt - don’t type that part in!):
-		`python ~/khan/webapp/tools/devshell.py`
-		`>>> import sys`
-		`>>> sys.path.append('.')`
-		`>>> import get_exercises_from_devshell`
-		`>>> get_exercises_from_devshell.do_everything()`
-		This will build a little cache of exercises and articles - confirm that `first-items.json` and `few-items.json` exist in the root directory of this project.
+0. **Initial Setup** _(you’ll only need to do this once)_: grab a cache of exercises and articles that the harness will then search, filter, and render. _(NOTE: If you already see `first-items.js` in the root directory of the project, no need to repeat this process!)_ You have two options here:
+	* Option A: Grab an existing cache from Dropbox. You can find it in `/Projects/Exercises redesign/2 - Imagine/Bryan/Data for Prototyping Tool/first-items.js` (or ask Bryan). Put it in the root directory of this project. It's ~160MB.
+	* Option B: Build a fresh cache from devshell. See instructions at the bottom of this README.
 1. **Start it Up** _(you’ll need to do this each time you want to start using the harness - like, at the start of your day.)_
 	2. In Terminal, navigate to the root directory of this project.
 	3. Type in `node server.js` to get the server up and running - this hosts the harness, and watches for CSS changes.
@@ -39,3 +33,13 @@ There are two parts to using the tool: the **initial setup** (takes a few minute
 
 ## How do I make CSS changes?
 To modify the CSS overrides, create a `.css` file in `/prototype-core/public/css/css-overrides/` directory. You’ll then see it in the dropdown menu in the harness. Select it in the harness’ dropdown, and then any and all changes you make will be applied immediately! _(Tip: try doing `body { background-color: blue!important; }` to make sure it’s working.)_
+
+## FOOTNOTE: Building a fresh first-items.js cache
+1. Start up webapp on your local machine (in `khan/webapp`, type `make serve` into a Terminal window, and leave it open.
+2. In another Terminal window, go to the root directory of this project; type in this series of commands (Note: `>>>` is the Python prompt - don’t type that part in!):
+		`python ~/khan/webapp/tools/devshell.py`
+		`>>> import sys`
+		`>>> sys.path.append('.')`
+		`>>> import get_exercises_from_devshell`
+		`>>> get_exercises_from_devshell.do_everything()`
+	This will build a little cache of exercises and articles - confirm that `first-items.js` is in the root directory of this project.
