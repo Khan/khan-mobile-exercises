@@ -60,7 +60,7 @@ const filters = {
 		active: false
 	},
 	{
-		id: 'expresssion',
+		id: 'expression',
 		displayName: 'Expression/equation',
 		active: false
 	},
