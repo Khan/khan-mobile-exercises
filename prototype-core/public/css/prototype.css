@@ -272,6 +272,9 @@ select:focus {
 
 .exercise-preview-name {
 	font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  color: #55a;
 	max-width: 280px;
 }
 

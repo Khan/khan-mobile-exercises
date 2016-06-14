@@ -9,7 +9,7 @@ const HeaderCSSChooserDropdown = React.createClass({
 
 	render() {
 		const cssFiles = this.props.cssFileNames.map(fileName => {
-			return <option value={fileName}>{fileName}</option>
+			return <option key={fileName} value={fileName}>{fileName}</option>
 		});
 
 		return <div className="option-dropdown-container">

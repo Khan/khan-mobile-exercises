@@ -1,6 +1,7 @@
 
 # from content.exercise_models import FrozenExercise
 import json
+import time
 # allExercises = FrozenExercise.get_all()
 
 def assessment_item_json(item):
@@ -98,7 +99,7 @@ def do_everything():
     import cPickle
     all_exercise_data = cPickle.load(open(os.path.expanduser('~/khan/webapp/outpu.pcl')))
     print "loaded data"
-    convert_and_save(all_exercise_data, "./first-items.json", "./few-items.json")
+    convert_and_save(all_exercise_data, "../data/first-items.json", "../data/few-items.json")
 
 def clean_article(article):
     data = vars(article)
@@ -125,8 +126,8 @@ def do_articles():
     import sys, os
     sys.path.append(os.path.expanduser('~/khan/webapp'))
 
-    first_items = json.load(open('./first-items.json'))
-    few_items = json.load(open('./few-items.json'))
+    first_items = json.load(open('../data/first-items.json'))
+    few_items = json.load(open('../data/few-items.json'))
     articles = get_articles()
-    json.dump(articles + first_items, open("./articles-and-exercises.json", 'w'), indent=2)
-    json.dump(articles[:10] + few_items, open("./few-articles-and-exercises.json", 'w'), indent=2)
+    json.dump(articles + first_items, open("../data/articles-and-exercises.json", 'w'), indent=2)
+    json.dump(articles[:10] + few_items, open("../data/few-articles-and-exercises.json", 'w'), indent=2)

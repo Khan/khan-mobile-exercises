@@ -1,1 +1,3 @@
-prototype-core/public/scripts/build.js -diff
+data/first-assessment-items.json binary
+data/first-items.js binary
+prototype-core/public/scripts/build.js binary

@@ -1,7 +1,6 @@
 import React from 'react'
 import HeaderAttributeFilterOverlay from "./header-attribute-filter-overlay";
 import HeaderCSSChooserDropdown from "./header-css-chooser";
-import NumberOptionDropdown from "./option-dropdown";
 
 const HeaderNav = React.createClass({
 	propTypes: {

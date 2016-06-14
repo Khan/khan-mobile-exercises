@@ -10,7 +10,7 @@ export const NumberOptionDropdown = React.createClass({
 	render() {
 		const optionElements = this.props.allOptions.map(option => {
 			const stringOption = option.toString();
-			return <option value={option}>{stringOption}</option>
+			return <option key={option} value={option}>{stringOption}</option>
 		});
 
 		return <div className="option-dropdown-container">
@@ -31,7 +31,7 @@ export const RangeDropdown = React.createClass({
 	render() {
 		const optionElements = this.props.allRanges.map((range, i) => {
 			const stringOption = range[0].toString()+ "-" + range[1].toString();
-			return <option value={i}>{stringOption}</option>
+			return <option key={i} value={i}>{stringOption}</option>
 		});
 
 		return <div className="option-dropdown-container">

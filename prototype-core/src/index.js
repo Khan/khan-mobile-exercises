@@ -16,9 +16,9 @@ import ReactDOM from 'react-dom'
 import attributeFilters from "./attribute-filters";
 import deviceFilters from "./device-filters";
 import deepEquals from 'deep-equal'
+// fetch polyfill
+import 'whatwg-fetch'
 
-import HeaderAttributeFilterOverlay from "./header-attribute-filter-overlay";
-import HeaderCSSChooserToggle from "./header-css-chooser";
 import HeaderNav from "./header-nav";
 import PreviewContainer from "./preview-container";
 

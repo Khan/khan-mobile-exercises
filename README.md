@@ -23,21 +23,23 @@ The really neat part: live CSS updates! You can either (a) change which CSS file
 There are two parts to using the tool: the **initial setup** (takes a few minutes) and then to **start it up**, you’ll need to run a couple of commands (only takes a few seconds).
 
 0. **Initial Setup** _(you’ll only need to do this once)_: 
-	1. **Grab a cache of exercises and articles** that the harness will then search, filter, and render. _(NOTE: If you already see `first-items.js` in the root directory of the project, no need to repeat this process!)_ You have two options here:
+	1. **Grab a cache of exercises and articles** that the harness will then search, filter, and render. _(NOTE: If you already see `first-items.js` in the `data` directory of the project, no need to repeat this process!)_ You have two options here:
 		* Option A: Grab an existing cache from Dropbox. You can find it in `/Projects/Exercises redesign/2 - Imagine/Bryan/Data for Prototyping Tool/first-items.js` (or ask Bryan). Put it in the root directory of this project. It's ~160MB.
 		* Option B: Build a fresh cache from devshell. See instructions at the bottom of this README.
 	2. **Install this project's dependencies:** run `git submodule update --init --recursive`
 1. **Start it Up** _(you’ll need to do this each time you want to start using the harness - like, at the start of your day.)_
 	2. In Terminal, navigate to the root directory of this project.
-	3. Type in `node server.js` to get the server up and running - this hosts the harness, and watches for CSS changes.
+	3. Type in `npm start` to get the server up and running - this hosts the harness, and watches for CSS changes.
 	4. **NOTE:** (If you get an error about "express"): type in `npm install`
-	5. Open a new Terminal tab (it’ll remain in the directory) and type `npm run watch` to start watching for tweaks to the Javascript files that make up the harness (not needed if you’re not tweaking the tool itself).
-2. **Go Use It**: Visit `http://localhost:3050/prototype-core/public/` (preferably in Chrome, but Safari works, too!) and enjoy!
+	5. [for hacking on the tool] Open a new Terminal tab (it’ll remain in the directory) and type `npm run watch` to start watching for tweaks to the Javascript files that make up the harness
+2. **Go Use It**: Visit `http://localhost:3050/` (preferably in Chrome, but Safari works, too!) and enjoy!
 
 ## How do I make CSS changes?
 To modify the CSS overrides, create a `.css` file in `/prototype-core/public/css/css-overrides/` directory. You’ll then see it in the dropdown menu in the harness. Select it in the harness’ dropdown, and then any and all changes you make will be applied immediately! _(Tip: try doing `body { background-color: blue!important; }` to make sure it’s working.)_
 
 ## FOOTNOTE: Building a fresh first-items.js cache
+**NOTE this is not actually working at the moment**
+
 1. Start up webapp on your local machine (in `khan/webapp`, type `make serve` into a Terminal window, and leave it open.
 2. In another Terminal window, go to the root directory of this project; type in this series of commands (Note: `>>>` is the Python prompt - don’t type that part in!):
 		`python ~/khan/webapp/tools/devshell.py`
